@@ -82,7 +82,7 @@ const Hero = ({
           <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
             <a
               data-video="https://player.vimeo.com/video/174002812"
-              href="#0"
+              href="#100"
               aria-controls="video-modal"
               onClick={openModal}
             >

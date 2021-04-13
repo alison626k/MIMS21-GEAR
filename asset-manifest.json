@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/MIMS21-GEAR/static/css/main.b0839060.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.bc57d74e.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.bc57d74e.chunk.js.map",
+    "main.css": "/MIMS21-GEAR/static/css/main.81723470.chunk.css",
+    "main.js": "/MIMS21-GEAR/static/js/main.da50848f.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.da50848f.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
-    "static/js/2.3f4a8278.chunk.js": "/MIMS21-GEAR/static/js/2.3f4a8278.chunk.js",
-    "static/js/2.3f4a8278.chunk.js.map": "/MIMS21-GEAR/static/js/2.3f4a8278.chunk.js.map",
+    "static/js/2.30749d5c.chunk.js": "/MIMS21-GEAR/static/js/2.30749d5c.chunk.js",
+    "static/js/2.30749d5c.chunk.js.map": "/MIMS21-GEAR/static/js/2.30749d5c.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.1437c61d69b637f6108ff812ff4e74b7.js": "/MIMS21-GEAR/precache-manifest.1437c61d69b637f6108ff812ff4e74b7.js",
+    "precache-manifest.4d93dfac8a166e6f2e6a894a05cf6d8e.js": "/MIMS21-GEAR/precache-manifest.4d93dfac8a166e6f2e6a894a05cf6d8e.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
-    "static/css/main.b0839060.chunk.css.map": "/MIMS21-GEAR/static/css/main.b0839060.chunk.css.map",
-    "static/js/2.3f4a8278.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.3f4a8278.chunk.js.LICENSE.txt",
+    "static/css/main.81723470.chunk.css.map": "/MIMS21-GEAR/static/css/main.81723470.chunk.css.map",
+    "static/js/2.30749d5c.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.30749d5c.chunk.js.LICENSE.txt",
     "static/media/style.scss": "/MIMS21-GEAR/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/MIMS21-GEAR/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/MIMS21-GEAR/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -27,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7fa28056.js",
-    "static/js/2.3f4a8278.chunk.js",
-    "static/css/main.b0839060.chunk.css",
-    "static/js/main.bc57d74e.chunk.js"
+    "static/js/2.30749d5c.chunk.js",
+    "static/css/main.81723470.chunk.css",
+    "static/js/main.da50848f.chunk.js"
   ]
 }

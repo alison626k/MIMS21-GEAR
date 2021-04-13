@@ -7,7 +7,7 @@
     "eject": "react-scripts eject"
   },
   "name": "gear",
-  "homepage": "/MIMS-GEAR",
+  "homepage": "/MIMS21-GEAR",
   "version": "0.1.0",
   "private": true,
   "dependencies": {

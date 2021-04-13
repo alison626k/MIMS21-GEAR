@@ -7,7 +7,7 @@
     "eject": "react-scripts eject"
   },
   "name": "gear",
-  "homepage": "/MIMS21-GEAR",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -22,7 +22,7 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/alison626k/MIMS21-GEAR.git"
   },
   "eslintConfig": {
     "extends": "react-app"

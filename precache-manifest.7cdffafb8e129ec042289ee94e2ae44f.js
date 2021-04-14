@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "139fe39a3cca6696f8b591635ca2f48c",
+    "revision": "721a402d7073c97ba4df22e0d0e9daac",
     "url": "/MIMS21-GEAR/index.html"
   },
   {
-    "revision": "2fa6d650d3dad2902763",
-    "url": "/MIMS21-GEAR/static/css/main.81723470.chunk.css"
+    "revision": "424626e6dce3bcf04238",
+    "url": "/MIMS21-GEAR/static/css/main.488756bc.chunk.css"
   },
   {
-    "revision": "51afab287db8ca7f0fc9",
-    "url": "/MIMS21-GEAR/static/js/2.30749d5c.chunk.js"
+    "revision": "da59e8fc3a5bf9b49ada",
+    "url": "/MIMS21-GEAR/static/js/2.a2ec258d.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/MIMS21-GEAR/static/js/2.30749d5c.chunk.js.LICENSE.txt"
+    "url": "/MIMS21-GEAR/static/js/2.a2ec258d.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "2fa6d650d3dad2902763",
-    "url": "/MIMS21-GEAR/static/js/main.da50848f.chunk.js"
+    "revision": "424626e6dce3bcf04238",
+    "url": "/MIMS21-GEAR/static/js/main.14249051.chunk.js"
   },
   {
     "revision": "5ac330c7e1fbb8af2224",
@@ -70,9 +70,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "445ae77b5671f5b41021ca8f6cd93f59",
     "url": "/MIMS21-GEAR/static/media/logo.445ae77b.png"
-  },
-  {
-    "revision": "a622fc5dd8adcdd27ea42218385013b4",
-    "url": "/MIMS21-GEAR/static/media/video-placeholder.a622fc5d.jpg"
   }
 ]);

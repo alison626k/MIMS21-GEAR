@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/MIMS21-GEAR/precache-manifest.daeb6c26d51e8394399484d1e9dbf17e.js"
+  "/MIMS21-GEAR/precache-manifest.edf1a4db25e94cc5cb2a5557c3a6a964.js"
 );
 
 self.addEventListener('message', (event) => {

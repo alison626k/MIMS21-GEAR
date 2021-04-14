@@ -1,8 +1,8 @@
 .hero {
-
 	.section-inner {
 		padding-top: $hero--padding-t__mobile;
 		padding-bottom: $hero--padding-b__mobile;
+		
 	}
 }
 
@@ -21,6 +21,8 @@
 			// prevents stretching
 			align-items: center;
 			vertical-align: top;
+			justify-content: center;
+			height: 100%;
 		}
 	}
 }

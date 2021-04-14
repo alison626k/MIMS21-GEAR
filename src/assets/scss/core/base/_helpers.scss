@@ -63,6 +63,9 @@
 	color: color(low-contrast);
 }
 
+.text-color-primary1 {
+	color: color(primary1);
+}
 .text-color-primary {
 	color: color(primary);
 }
@@ -83,6 +86,17 @@
 	color: color(success);
 }
 
+.text-color-light-high {
+	color: color(light1);
+}
+
+.text-color-light-mid {
+	color: color(light2);
+}
+
+.text-color-light-low {
+	color: color(light3);
+}
 .invert-color {
 
 	.text-color-high {

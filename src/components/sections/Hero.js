@@ -49,57 +49,33 @@ const Hero = ({
   const innerClasses = classNames(
     'hero-inner section-inner',
     topDivider && 'has-top-divider',
-    bottomDivider && 'has-bottom-divider'
+    bottomDivider && 'has-bottom-divider',
+    invertColor && 'invert-color',
   );
 
   return (
-    <section
+    <section 
       {...props}
       className={outerClasses}
     >
       <div className="container-sm">
         <div className={innerClasses}>
-          <div className="hero-content">
-            <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200">
-              Landing template for <span className="text-color-primary">startups</span>
+          <div className="hero-content" >
+            <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200" style={{ fontSize: "40px"}}>
+            <span className="text-color-secondary" >GEAR</span>
+            </h1>
+            <h1 className="mt-0 mb-16 reveal-from-bottom invert-color" data-reveal-delay="200"  >
+              <span className="text-color-secondary" >G</span>aps
+              <span className="text-color-secondary"> E</span>xplorer for
+              <span className="text-color-secondary"> A</span>ccessibility and
+              <span className="text-color-secondary"> R</span>esilience of California EV Charging Infrastructure
             </h1>
             <div className="container-xs">
-              <p className="m-0 mb-32 reveal-from-bottom" data-reveal-delay="400">
-                Our landing page template works on all devices, so you only have to set it up once, and get beautiful results forever.
+              <p className="m-0 mb-32 reveal-from-bottom " data-reveal-delay="400">
+              <span className="text-color-light-mid" >How do we understand the gaps in EV charging infrastructure,  is fundamental to the success of transforming California’s vehicle fleet?</span>
                 </p>
-              <div className="reveal-from-bottom" data-reveal-delay="600">
-                <ButtonGroup>
-                  <Button tag="a" color="primary" wideMobile href="https://cruip.com/">
-                    Get started
-                    </Button>
-                  <Button tag="a" color="dark" wideMobile href="https://github.com/cruip/open-react-template/">
-                    View on Github
-                    </Button>
-                </ButtonGroup>
-              </div>
             </div>
           </div>
-          <div className="hero-figure reveal-from-bottom illustration-element-01" data-reveal-value="20px" data-reveal-delay="800">
-            <a
-              data-video="https://player.vimeo.com/video/174002812"
-              href="#100"
-              aria-controls="video-modal"
-              onClick={openModal}
-            >
-              <Image
-                className="has-shadow"
-                src={require('./../../assets/images/video-placeholder.jpg')}
-                alt="Hero"
-                width={896}
-                height={504} />
-            </a>
-          </div>
-          <Modal
-            id="video-modal"
-            show={videoModalActive}
-            handleClose={closeModal}
-            video="https://player.vimeo.com/video/174002812"
-            videoTag="iframe" />
         </div>
       </div>
     </section>

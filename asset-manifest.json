@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/MIMS21-GEAR/static/css/main.488756bc.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.14249051.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.14249051.chunk.js.map",
+    "main.css": "/MIMS21-GEAR/static/css/main.fe64d067.chunk.css",
+    "main.js": "/MIMS21-GEAR/static/js/main.7a06bf70.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.7a06bf70.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
-    "static/js/2.a2ec258d.chunk.js": "/MIMS21-GEAR/static/js/2.a2ec258d.chunk.js",
-    "static/js/2.a2ec258d.chunk.js.map": "/MIMS21-GEAR/static/js/2.a2ec258d.chunk.js.map",
+    "static/js/2.375f6a1d.chunk.js": "/MIMS21-GEAR/static/js/2.375f6a1d.chunk.js",
+    "static/js/2.375f6a1d.chunk.js.map": "/MIMS21-GEAR/static/js/2.375f6a1d.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.7cdffafb8e129ec042289ee94e2ae44f.js": "/MIMS21-GEAR/precache-manifest.7cdffafb8e129ec042289ee94e2ae44f.js",
+    "precache-manifest.f735ae08ea0787f7ef4a2104715506ee.js": "/MIMS21-GEAR/precache-manifest.f735ae08ea0787f7ef4a2104715506ee.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
-    "static/css/main.488756bc.chunk.css.map": "/MIMS21-GEAR/static/css/main.488756bc.chunk.css.map",
-    "static/js/2.a2ec258d.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.a2ec258d.chunk.js.LICENSE.txt",
+    "static/css/main.fe64d067.chunk.css.map": "/MIMS21-GEAR/static/css/main.fe64d067.chunk.css.map",
+    "static/js/2.375f6a1d.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.375f6a1d.chunk.js.LICENSE.txt",
+    "static/media/carBackgroundClear.png": "/MIMS21-GEAR/static/media/carBackgroundClear.cc51ca1e.png",
     "static/media/style.scss": "/MIMS21-GEAR/static/media/illustration-section-02.63d0555d.svg",
     "static/media/feature-tile-icon-01.svg": "/MIMS21-GEAR/static/media/feature-tile-icon-01.0f9928d7.svg",
     "static/media/feature-tile-icon-02.svg": "/MIMS21-GEAR/static/media/feature-tile-icon-02.bd39f304.svg",
@@ -26,8 +27,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7fa28056.js",
-    "static/js/2.a2ec258d.chunk.js",
-    "static/css/main.488756bc.chunk.css",
-    "static/js/main.14249051.chunk.js"
+    "static/js/2.375f6a1d.chunk.js",
+    "static/css/main.fe64d067.chunk.css",
+    "static/js/main.7a06bf70.chunk.js"
   ]
 }

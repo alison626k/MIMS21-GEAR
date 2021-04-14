@@ -75,7 +75,8 @@ const MiddleTest = ({
                   <div style={{
                     height: 500
                     }} >
-                </div>
+                    
+                  </div>
               </div>
             </div>
 

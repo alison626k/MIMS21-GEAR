@@ -57,8 +57,14 @@ const Hero = ({
     <section 
       {...props}
       className={outerClasses}
+      style={{
+        backgroundRepeat: "no-repeat",
+        backgroundPosition: 'center',
+        backgroundAttachment: 'fixed',
+        backgroundSize:"cover",
+      }}
     >
-      <div className="container-sm">
+      <div className="container-sm" >
         <div className={innerClasses}>
           <div className="hero-content" >
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200" style={{ fontSize: "40px"}}>

@@ -1,8 +1,8 @@
 // install (please make sure versions match peerDependencies)
 // yarn add @nivo/core @nivo/waffle
 import React from 'react';
-import { ResponsiveWaffle } from '@nivo/waffle'
-import IllustrationsectionSvg from '../../assets/images/Illustrationsection.svg'
+import { ResponsiveWaffle, CustomCell } from '@nivo/waffle'
+import svgtest from '../../assets/images/svgtest.svg'
 // make sure parent container have a defined height when using
 // responsive component, otherwise height will be 0 and
 // no chart will be rendered.
@@ -38,6 +38,7 @@ const Waffle = () => (
         columns={14}
         margin={{ top: 10, right: 10, bottom: 10, left: 120 }}
         colors={{ scheme: 'nivo' }}
+        cellComponent= {(props) => { return (<svgtest/>)}}
         borderColor={{ from: 'color', modifiers: [ [ 'darker', 0.3 ] ] }}
         animate={true}
         motionStiffness={90}

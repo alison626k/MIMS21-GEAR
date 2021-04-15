@@ -1,31 +1,43 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ebed1c2a24835d999996c2cd59dbe745",
+    "revision": "61bdcffd5373ed6f8a411062dd4c34ff",
     "url": "/MIMS21-GEAR/index.html"
   },
   {
-    "revision": "1bba4667c8bdeab780cf",
-    "url": "/MIMS21-GEAR/static/css/main.48430da8.chunk.css"
+    "revision": "1f9699e23fdadef5ea9e",
+    "url": "/MIMS21-GEAR/static/css/main.375ffffa.chunk.css"
   },
   {
-    "revision": "c43d3132cc1e6a1f06d3",
-    "url": "/MIMS21-GEAR/static/js/2.82d23948.chunk.js"
+    "revision": "1992cec1b846d8747541",
+    "url": "/MIMS21-GEAR/static/js/2.f4ef29bd.chunk.js"
   },
   {
     "revision": "117d65892edc8adcd29d4a0d57b5a80a",
-    "url": "/MIMS21-GEAR/static/js/2.82d23948.chunk.js.LICENSE.txt"
+    "url": "/MIMS21-GEAR/static/js/2.f4ef29bd.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "1bba4667c8bdeab780cf",
-    "url": "/MIMS21-GEAR/static/js/main.acada5cc.chunk.js"
+    "revision": "1f9699e23fdadef5ea9e",
+    "url": "/MIMS21-GEAR/static/js/main.ee5c5b87.chunk.js"
   },
   {
     "revision": "5ac330c7e1fbb8af2224",
     "url": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js"
   },
   {
+    "revision": "376336f20b160dc13251d7bd0c399969",
+    "url": "/MIMS21-GEAR/static/media/Brand.376336f2.svg"
+  },
+  {
+    "revision": "a7523d00721144939921eab202a1a608",
+    "url": "/MIMS21-GEAR/static/media/Housetype.a7523d00.svg"
+  },
+  {
     "revision": "ea6949039d6554ebf2cf109f333f5811",
     "url": "/MIMS21-GEAR/static/media/Illustrationsection.ea694903.svg"
+  },
+  {
+    "revision": "a222014823b13f7c628ca9e486d43d00",
+    "url": "/MIMS21-GEAR/static/media/Svgtest.a2220148.svg"
   },
   {
     "revision": "d9d81735d1822a57f5353dd8ba081691",
@@ -78,13 +90,5 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
     "revision": "445ae77b5671f5b41021ca8f6cd93f59",
     "url": "/MIMS21-GEAR/static/media/logo.445ae77b.png"
-  },
-  {
-    "revision": "a222014823b13f7c628ca9e486d43d00",
-    "url": "/MIMS21-GEAR/static/media/svgtest.a2220148.svg"
-  },
-  {
-    "revision": "f013caa7f95081df5063234f7c8adb12",
-    "url": "/MIMS21-GEAR/static/media/test.f013caa7.svg"
   }
 ]);

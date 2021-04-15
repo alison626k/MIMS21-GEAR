@@ -71,6 +71,7 @@ const Waffle = () => (
         total={100}
         rows={4}
         columns={5}
+        padding={0}
         margin={{ top: 10, right: 10, bottom: 10, left: 120 }}
         colors={d => d.color}
         cellComponent= {testcell}

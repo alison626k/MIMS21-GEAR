@@ -11,6 +11,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@nivo/bar": "^0.67.0",
     "@nivo/core": "^0.67.0",
     "@nivo/waffle": "^0.67.0",
     "classnames": "^2.2.6",
@@ -20,7 +21,9 @@
     "react-dom": "^16.13.1",
     "react-ga": "^2.7.0",
     "react-router-dom": "^5.1.2",
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^3.4.1",
+    "rechart": "0.0.1",
+    "recharts": "^2.0.9"
   },
   "repository": {
     "type": "git",

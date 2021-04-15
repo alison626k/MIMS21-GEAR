@@ -4,6 +4,7 @@ import { SectionSplitProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
 import Waffle from '../elements/Waffle';
+import ChargerTypeBar from '../elements/ChargerTypeBar';
 import { ReactComponent as Housetype } from '../../assets/images/Housetype.svg';
 import { ReactComponent as Brand } from '../../assets/images/Brand.svg';
 
@@ -80,12 +81,12 @@ const Persona = ({
               </div>
               <div className={
                 classNames(
-                  'split-item-image center-content-mobile reveal-from-bottom',
+                  'split-item-image center-content-mobile reveal-from-right',
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item" >
                       <div style={{
-                    height: 340
+                    height: 360
                   }}>
                     <Waffle />
                     </div>
@@ -93,7 +94,7 @@ const Persona = ({
             </div>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   </div>
                 <h3 className="mt-0 mb-12">
@@ -105,12 +106,12 @@ const Persona = ({
               </div>
               <div className={
                 classNames(
-                  'split-item-image center-content-mobile reveal-from-bottom',
+                  'split-item-image center-content-mobile reveal-from-right',
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
                 <div style={{
-                    height: 340
+                    height: 360
                   }}>
                 <Housetype fill='#184d47' />
                 </div>
@@ -131,12 +132,12 @@ const Persona = ({
               </div>
               <div className={
                 classNames(
-                  'split-item-image center-content-mobile reveal-from-bottom',
+                  'split-item-image center-content-mobile reveal-from-right',
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
                 <div style={{
-                    height: 340
+                    height: 360
                   }}>
                 <Brand fill='#184d47' />
                 </div>
@@ -144,7 +145,7 @@ const Persona = ({
             </div>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item">
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   Lightning fast workflow
                   </div>
@@ -157,15 +158,17 @@ const Persona = ({
               </div>
               <div className={
                 classNames(
-                  'split-item-image center-content-mobile reveal-from-bottom',
+                  'split-item-image center-content-mobile reveal-from-right',
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
-                <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
-                  alt="Features split 02"
-                  width={528}
-                  height={396} />
+                <div style={{
+                    height: 360
+                  }} 
+                  style={{ paddingTop: "2em" , paddingRight: "5em", size:"150%"}}
+                  >
+                    <ChargerTypeBar />
+                    </div>
               </div>
             </div>
 

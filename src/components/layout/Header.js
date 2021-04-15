@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { Link } from 'react-router-dom';
 import logo from '../../assets/images/logo.png';
-import test from '../../assets/images/test.svg';
 
 const propTypes = {
   navPosition: PropTypes.string,

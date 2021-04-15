@@ -3,8 +3,9 @@ import classNames from 'classnames';
 import { SectionSplitProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import Image from '../elements/Image';
-import Illustrationsection from '../../assets/images/Illustrationsection.svg';
 import Waffle from '../elements/Waffle';
+import { ReactComponent as Housetype } from '../../assets/images/Housetype.svg';
+import { ReactComponent as Brand } from '../../assets/images/Brand.svg';
 
 const propTypes = {
   ...SectionSplitProps.types
@@ -84,7 +85,7 @@ const Persona = ({
                 )}
                 data-reveal-container=".split-item" >
                       <div style={{
-                    height: 500
+                    height: 340
                   }}>
                     <Waffle />
                     </div>
@@ -108,11 +109,11 @@ const Persona = ({
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
-                <Image
-                  src={require('./../../assets/images/features-split-image-02.png')}
-                  alt="Features split 02"
-                  width={528}
-                  height={396} />
+                <div style={{
+                    height: 340
+                  }}>
+                <Housetype fill='#184d47' />
+                </div>
               </div>
             </div>
 
@@ -134,11 +135,11 @@ const Persona = ({
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
-                <Image
-                  src={require('./../../assets/images/features-split-image-03.png')}
-                  alt="Features split 03"
-                  width={528}
-                  height={396} />
+                <div style={{
+                    height: 340
+                  }}>
+                <Brand fill='#184d47' />
+                </div>
               </div>
             </div>
 

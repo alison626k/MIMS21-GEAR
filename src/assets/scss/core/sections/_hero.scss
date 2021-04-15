@@ -3,8 +3,10 @@
 		padding-top: $hero--padding-t__mobile;
 		padding-bottom: $hero--padding-b__mobile;
 		align-items: center;
-		margin-top: 40%;
+		height:100vh;
+		margin-top: 60vh;
 		transform: translateY(-50%);
+
 		
 	}
 }
@@ -15,6 +17,7 @@
 	> .hero-content + .hero-figure,
 	> .hero-figure + .hero-content {
 		margin-top: $hero--inner-padding-v_mobile;
+
 	}
 
 	> .hero-figure {

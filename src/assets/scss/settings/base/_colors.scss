@@ -33,7 +33,7 @@ $palette: (
 
 // Base typography: color
 $color: (
-	heading:				get-color(light, 3),
+	heading:				get-color(primary, 2),
 	base: 					get-color(dark, 1),
 	high-contrast: 			get-color(dark, 2),
 	mid-contrast: 			get-color(dark, 2),
@@ -62,8 +62,8 @@ $color: (
 
 // Borders and dividers: color
 $border--color: (
-	divider:			get-color(dark, 2),
-	divider-inverse:	get-color(light, 1)
+	divider:			get-color(dark, 3),
+	divider-inverse:	get-color(dark, 1)
 );
 
 // Icons: fill color

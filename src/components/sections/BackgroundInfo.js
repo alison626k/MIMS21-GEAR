@@ -128,9 +128,11 @@ const BackgroundInfo = ({
                   <span className="testimonial-item-link">
                     <a href="#0">AppName</a>
                   </span>
-
               </div>
             </div>
+          </div>
+          
+          <div  style={{height: 400}} >
           </div>
 
           </div>

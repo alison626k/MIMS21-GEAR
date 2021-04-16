@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05a6b667c9ddef3bd26c3fc1be93bf3e",
+    "revision": "f9f3e55bc28204c48b7776770db232a8",
     "url": "/MIMS21-GEAR/index.html"
   },
   {
-    "revision": "59baacb03f01f0da0479",
-    "url": "/MIMS21-GEAR/static/css/main.c74a7d36.chunk.css"
+    "revision": "ec32352cb0f2e94bebd6",
+    "url": "/MIMS21-GEAR/static/css/main.59558f51.chunk.css"
   },
   {
-    "revision": "7d69cb2e6baf5863d429",
-    "url": "/MIMS21-GEAR/static/js/2.ecbddebd.chunk.js"
+    "revision": "4d3dc8fcc9f781fd310c",
+    "url": "/MIMS21-GEAR/static/js/2.13635226.chunk.js"
   },
   {
     "revision": "542e220b9f814c7f01752f1f72898101",
-    "url": "/MIMS21-GEAR/static/js/2.ecbddebd.chunk.js.LICENSE.txt"
+    "url": "/MIMS21-GEAR/static/js/2.13635226.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "59baacb03f01f0da0479",
-    "url": "/MIMS21-GEAR/static/js/main.ff790d1a.chunk.js"
+    "revision": "ec32352cb0f2e94bebd6",
+    "url": "/MIMS21-GEAR/static/js/main.909b4c62.chunk.js"
   },
   {
     "revision": "5ac330c7e1fbb8af2224",
@@ -28,12 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MIMS21-GEAR/static/media/Brand.376336f2.svg"
   },
   {
+    "revision": "890c43fc3d1b2668ed3b6ccd6891c95e",
+    "url": "/MIMS21-GEAR/static/media/Driving.890c43fc.svg"
+  },
+  {
     "revision": "a7523d00721144939921eab202a1a608",
     "url": "/MIMS21-GEAR/static/media/Housetype.a7523d00.svg"
   },
   {
-    "revision": "d5a648c1c68e286015582b9bf76d3091",
-    "url": "/MIMS21-GEAR/static/media/Moneybag.d5a648c1.svg"
+    "revision": "b236a860f490ce940513c54240cbcdcd",
+    "url": "/MIMS21-GEAR/static/media/Moneybag.b236a860.svg"
   },
   {
     "revision": "d9d81735d1822a57f5353dd8ba081691",

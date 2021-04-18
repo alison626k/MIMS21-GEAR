@@ -50,8 +50,8 @@ const testcell = ({
             }) => (
                 <Moneybag
                     r={size}
-                    x={x}
-                    y={y -10+ size/2 }
+                    x={x-20}
+                    y={y -100+ size/2 }
                     fill={fill || color}
                     strokeWidth={borderWidth}
                     stroke={borderColor}

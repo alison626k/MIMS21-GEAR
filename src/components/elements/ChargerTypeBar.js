@@ -33,8 +33,8 @@ export default function ChargerTypeBar() {
   return (
 
     <BarChart
-      width= {500}
-      height={300}
+      width= {350}
+      height={220}
       layout="vertical"
       data={data}
       margin={{
@@ -44,8 +44,9 @@ export default function ChargerTypeBar() {
         bottom: 0
       }}
     >
+
       <XAxis type="number" tickFormatter={(tick) => `${tick}%`} style={{fontSize: '12'}} domain={[0, 100]}/>
-      <YAxis type="category" dataKey="name"   width={150} style={{fontSize: '12'}}/>
+      <YAxis type="category" dataKey="name"   width={165} style={{fontSize: '12'}}/>
       <Tooltip formatter={(percentage) => `${percentage}%`}  wrapperStyle={{fontSize: "0.1em"}} />
       <Bar dataKey="percentage" fill="#184d47" background={{ fill: "#eee" }} />
     </BarChart>

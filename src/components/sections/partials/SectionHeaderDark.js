@@ -16,7 +16,7 @@ const defaultProps = {
   tag: 'h2'
 }
 
-const SectionHeader = ({
+const SectionHeaderDark = ({
   className,
   data,
   children,
@@ -43,9 +43,9 @@ const SectionHeader = ({
             {data.title &&
               <Component className={
                 classNames(
-                  'mt-16',
+                  'mt-32',
                   data.paragraph ? 'mb-16' : 'mt-0'
-                )} >{data.title}</Component>
+                )} style={{paddingTop:'50px'}}>{data.title}</Component>
             }
             {data.paragraph &&
               <p className="m-0">{data.paragraph}</p>
@@ -57,7 +57,7 @@ const SectionHeader = ({
   );
 }
 
-SectionHeader.propTypes = propTypes;
-SectionHeader.defaultProps = defaultProps;
+SectionHeaderDark.propTypes = propTypes;
+SectionHeaderDark.defaultProps = defaultProps;
 
-export default SectionHeader;
+export default SectionHeaderDark;

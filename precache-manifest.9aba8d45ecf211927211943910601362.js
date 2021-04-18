@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "55c2177caec67a7697a66d03e6bb2e5c",
+    "revision": "c21cb3b7188bc156992417167ca0934e",
     "url": "/MIMS21-GEAR/index.html"
   },
   {
-    "revision": "87aae98e8607ff295175",
+    "revision": "c1a66e4a47c872d28a51",
     "url": "/MIMS21-GEAR/static/css/main.c74a7d36.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MIMS21-GEAR/static/js/2.4caca574.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "87aae98e8607ff295175",
-    "url": "/MIMS21-GEAR/static/js/main.fbaba793.chunk.js"
+    "revision": "c1a66e4a47c872d28a51",
+    "url": "/MIMS21-GEAR/static/js/main.7c9059ba.chunk.js"
   },
   {
     "revision": "5ac330c7e1fbb8af2224",

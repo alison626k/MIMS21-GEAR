@@ -65,14 +65,14 @@ const renderCustomizedLabel = (p) => {
 
           <Legend wrapperStyle={{top: 250, left: 25 ,fontSize:'0.8em'}}/>
 
-          <Bar dataKey="prefer pcev" fill="#82ba7f" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
+          <Bar dataKey="prefer pcev" fill="#96bb7c" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
             <LabelList
               dataKey="prefer pcev"
               position="center"
               content={renderCustomizedLabel}
             />
           </Bar>
-          <Bar dataKey="somewhat prefer pcev" fill="#82ca9d" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
+          <Bar dataKey="somewhat prefer pcev" fill="#719d52" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
             <LabelList
               dataKey="somewhat prefer pcev"
               position="center"
@@ -81,21 +81,21 @@ const renderCustomizedLabel = (p) => {
             />
           </Bar>
 
-          <Bar dataKey="neutral" fill="#bfc2be" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
+          <Bar dataKey="neutral" fill="#527E32" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
             <LabelList
               dataKey="neutral"
               position="center"
               content={renderCustomizedLabel}
             />
           </Bar>
-          <Bar dataKey="somewhat prefer gasoline" fill="#ebbd8f" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
+          <Bar dataKey="somewhat prefer gasoline" fill="#184d47" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
             <LabelList
               dataKey="somewhat prefer gasoline"
               position="center"
               content={renderCustomizedLabel}
             />
           </Bar>
-          <Bar dataKey="prefer gasoline" fill="#ba8754" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
+          <Bar dataKey="prefer gasoline" fill="#427771" stackId="a" animationBegin={100} animationDuration={1000} animationEasing="ease-out">
             <LabelList
               dataKey="prefer gasoline"
               position="center"

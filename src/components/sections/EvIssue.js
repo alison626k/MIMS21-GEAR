@@ -2,9 +2,15 @@ import React from 'react';
 import classNames from 'classnames';
 import { SectionSplitProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
+import Image from '../elements/Image';
+import Waffle from '../elements/Waffle';
+import ChargerTypeBar from '../elements/ChargerTypeBar';
 import { ReactComponent as Housetype } from '../../assets/images/Housetype.svg';
+import { ReactComponent as Brand } from '../../assets/images/Brand.svg';
 import ChargerConnivence from '../elements/ChargerConnivence';
+import IncomeLevelCharger from '../elements/IncomeLevelCharger';
 import WaitTimeChart from '../elements/WaitTimeChart';
+
 
 const propTypes = {
   ...SectionSplitProps.types
@@ -111,7 +117,7 @@ const EvIssue = ({
                 <div style={{
                     height: 360
                   }}>
-                <Housetype fill='#184d47' />
+                <IncomeLevelCharger />
                 </div>
               </div>
             </div>

@@ -39,7 +39,7 @@ const renderCustomizedLabel = (p) => {
     export default function ChargerConnivence() {    
     return (
       <div className="content c-white">
-        <p style={{fontSize:'14px', whiteSpace: 'nowrap'}} >
+        <p style={{fontSize:'16px', whiteSpace: 'nowrap',marginTop:70}} >
           PCEV/Gasoline prpreferference by by Concerns about Charging station availability
         </p>
 

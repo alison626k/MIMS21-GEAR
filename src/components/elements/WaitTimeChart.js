@@ -89,6 +89,7 @@ const data = [
 
 const WaitTimeChart = () => (
   <ResponsiveHeatMap
+  
     data={data}
     keys={[
       "1-5",
@@ -108,8 +109,8 @@ const WaitTimeChart = () => (
       tickPadding: 5,
       tickRotation: -90,
       legend: "Public Charger Distance to Home (in miles)",
-      fontSize:20,
-      legendOffset: -80
+      legendOffset: -80,
+      legendFontSize: 16
     }}
     axisRight={null}
     axisBottom={null}

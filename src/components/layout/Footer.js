@@ -39,17 +39,13 @@ const Footer = ({
           classNames(
             'site-footer-inner',
             topDivider && 'has-top-divider'
-          )}>
-          <div className="footer-top space-between text-xxs">
-          <img src={logo} alt={'logo'} width="32" height="32"/>
-            <FooterSocial />
+          )}
+          style={{ fontSize: "12px"}}>
+            <p className="invert-color">UC-Berkeley School of Information, GEAR 2021. 
+            <br></br>
+            Created by:Wenqi Luo, Alison Kuo,Yin Qui, Coco Wang. All right reserved.</p>
+            </div>
           </div>
-          <div className="footer-bottom space-between text-xxs invert-order-desktop">
-            <FooterNav />
-            <div className="footer-copyright">Made by <a href="https://cruip.com">Cruip</a>. All right reserved</div>
-          </div>
-        </div>
-      </div>
     </footer>
   );
 }

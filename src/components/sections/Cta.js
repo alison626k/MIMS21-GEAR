@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { SectionProps } from '../../utils/SectionProps';
 import Input from '../elements/Input';
+import Test from '../elements/Tableau';
 
 const propTypes = {
   ...SectionProps.types,
@@ -54,7 +55,10 @@ const Cta = ({
           <div className="cta-slogan">
             <h3 className="m-0">
               For previewing layouts and visual?
+              <iframe width="100%" height="384" frameborder="0"
+              src="https://observablehq.com/embed/@info247-spring21/lab-11-d3-tutorial-2-creating-an-arc-diagram-with-animated-tr/8?cells=animatedNodes2"></iframe>
               </h3>
+              <Test/>
           </div>
           <div className="cta-action">
             <Input id="newsletter" type="email" label="Subscribe" labelHidden hasIcon="right" placeholder="Your best email">

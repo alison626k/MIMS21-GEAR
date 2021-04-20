@@ -93,7 +93,7 @@ const data = [
 export default function IncomeLevelCharger() {
   return (
     <div style = {{marginTop:10}  }>
-      <p style = {{fontSize:'16px'}} >Number of spotted charging stations (by income level) </p>
+      <p style = {{fontSize:'16px'}} > </p>
 
       <AreaChart
         width={500}

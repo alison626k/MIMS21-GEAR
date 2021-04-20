@@ -40,7 +40,6 @@ const renderCustomizedLabel = (p) => {
     return (
       <div className="content c-white">
         <p style={{fontSize:'16px', whiteSpace: 'nowrap',marginTop:70}} >
-          PCEV/Gasoline prpreferference by by Concerns about Charging station availability
         </p>
 
         <BarChart

@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0093a08e01b87dd8478d85d2aecc4598",
+    "revision": "be740cb1ff5282b9f21f4320373da6e0",
     "url": "/MIMS21-GEAR/index.html"
   },
   {
-    "revision": "7e11c2d8532c4100b51c",
+    "revision": "631eb3aad163dad4b012",
     "url": "/MIMS21-GEAR/static/css/main.0eba2960.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MIMS21-GEAR/static/js/2.4ea9e341.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "7e11c2d8532c4100b51c",
-    "url": "/MIMS21-GEAR/static/js/main.e6c796d0.chunk.js"
+    "revision": "631eb3aad163dad4b012",
+    "url": "/MIMS21-GEAR/static/js/main.b62f264b.chunk.js"
   },
   {
     "revision": "5ac330c7e1fbb8af2224",
@@ -28,8 +28,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MIMS21-GEAR/static/media/Brand.376336f2.svg"
   },
   {
-    "revision": "c9b8a413a808193bc075e7912fd96c73",
-    "url": "/MIMS21-GEAR/static/media/DC.c9b8a413.png"
+    "revision": "ae34ce4fc07d0b6ad30ccf86b95ca376",
+    "url": "/MIMS21-GEAR/static/media/DC.ae34ce4f.png"
   },
   {
     "revision": "890c43fc3d1b2668ed3b6ccd6891c95e",
@@ -40,12 +40,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MIMS21-GEAR/static/media/Housetype.a7523d00.svg"
   },
   {
-    "revision": "a82020e22cf0c72930fec9b80c79ad56",
-    "url": "/MIMS21-GEAR/static/media/Level1.a82020e2.png"
+    "revision": "76579b6c8d029eff81e900451c8a6db7",
+    "url": "/MIMS21-GEAR/static/media/Level1.76579b6c.png"
   },
   {
-    "revision": "62fa9e6c00948666c671ed404f7dd79f",
-    "url": "/MIMS21-GEAR/static/media/Level2.62fa9e6c.png"
+    "revision": "7fd53b343fbb348d231484ef55ab947e",
+    "url": "/MIMS21-GEAR/static/media/Level2.7fd53b34.png"
   },
   {
     "revision": "445ae77b5671f5b41021ca8f6cd93f59",

@@ -61,8 +61,8 @@ const EvIssue = ({
   );
 
   const sectionHeader = {
-    title: 'Ev Behavior Issue',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    title: 'EV Behavior Issue',
+    paragraph: 'According to the EV survey done by The California Energy Commission and National Renewable Energy Laboratory (NREL), EV drivers face three main issues on charging in the public station.'
   };
 
   const [ref, inView] = useInView({
@@ -84,10 +84,11 @@ const EvIssue = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   </div>
                 <h3 className="mt-0 mb-12">
-                Charger Distance with Waiting Time
+                Often Wait for a Public Charger
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Drivers respond that no matter how long miles do they drive, they experience half of the time they have to wait for a public charger. Even after driving over 10 miles, the situation remains. 
+                Waiting for a public charger is an issue that makes drivers take charging EV inconvenience.
                   </p>
               </div>
               <div className={
@@ -109,10 +110,11 @@ const EvIssue = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   </div>
                 <h3 className="mt-0 mb-12">
-                Charger With Income Level
+                Higher Income Area Gets More Public Chargers
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Rumors say the high-income level living area has more public chargers. Statics support the hypothesis that low-income level gets a higher percentage that they do not see any charging station, but the higher income level sees more charger stations nearby.
+                 This causes inconvenience to the low-income group.
                   </p>
               </div>
               <div className={

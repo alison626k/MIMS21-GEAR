@@ -46,7 +46,7 @@ const EVChargerType = ({
 
   const sectionHeader  = {
     title: 'EV Charger Type',
-    paragraph: "There are three levels to charging EVs based on varying speed and power. The system starts with the lowest charging at Level 1 and gets faster from there. It's important to understand these charger because they each gets pros and cons and sets a role in EV system behaviors."
+    paragraph: "There are three levels to charging EVs based on varying speed and power. It starts with the lowest charging at Level 1 and gets faster from there. It's important to understand these charger because they each gets pros and cons and sets a role in EV system behaviors."
   };
 
   return (
@@ -62,11 +62,11 @@ const EVChargerType = ({
             <div className="tiles-item reveal-from-bottom">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
+                  <div className=" mb-2">
                     <Image
                       src={require('./../../assets/images/Level1.png')}
                       alt="Level1"
-                      width={240}
+                      width={300}
                       height={240} />
                   </div>
                 </div>
@@ -75,14 +75,16 @@ const EVChargerType = ({
                     Level 1 (120V)
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}}>
-                    ・Use a normal 120-volt Alternating Current (AC) power source. 
+                  ・Charge 2-5 mile/hr 
                     <br ></br>
-                    ・Need a converter in the car to charger.
+                    ・Often replenished overnight (15+ hours) to fully charger an EV car 
                     <br ></br>
-                    ・Charging times can be slow. Often replenished overnight (15+ hours) to fully charger an EV car .
+                    ・Easy to get access.
+                    <br ></br>
+                    ・Use a normal 120-volt Alternating Current (AC) power source
                     <br ></br>
                   <br></br>
-                  <span >Examples: Any normal socket can be used </span>
+                  <span >Examples: Any normal socket  </span>
                   <br></br>
                     </p>
                 </div>
@@ -92,11 +94,11 @@ const EVChargerType = ({
             <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="features-tiles-item-image mb-16">
+                  <div className=" mb-2">
                   <Image
                       src={require('./../../assets/images/Level2.png')}
                       alt="Level2"
-                      width={240}
+                      width={300}
                       height={240} />
                   </div>
                 </div>
@@ -105,14 +107,16 @@ const EVChargerType = ({
                     Level 2 (240V)
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}} >
-                  ・Use a higher-output 240-volt Alternating Current (AC) power source. 
+                  ・Charge 10-20 mile/hr
                   <br ></br>
-                  ・Need a converter in the car to charge. 
+                  ・Can fully charge an EV in just a few hours
                   <br ></br>
-                  ・Charging times are faster than with a Level 1. Can fully charge an EV in just a few hours.
+                  ・Most common public charger type
+                  <br ></br>
+                  ・Use a higher-output 240-volt Alternating Current (AC) power source
                   <br ></br>
                   <br></br>
-                  <span >Examples: Hotels, Public Place, Stations </span>
+                  <span >Examples: Hotels, Public Stations </span>
                   <br></br>
                     </p>
                 </div>
@@ -122,11 +126,11 @@ const EVChargerType = ({
             <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="mb-16">                  
+                  <div className="mb-2">                  
                   <Image
                       src={require('./../../assets/images/DC.png')}
                       alt="DC"
-                      width={240}
+                      width={300}
                       height={240} />
                   </div>
                 </div>
@@ -135,11 +139,13 @@ const EVChargerType = ({
                   Direct Current (DC) Fast Charger
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}}>
-                  ・Has the converter inside the charger itself. 
+                  ・Charge 180-240 mile/hr
                   <br ></br>
-                  ・Feed power directly to the car's battery. 
+                  ・Can charge an EV to 80% power in 20 minutes 
                   <br ></br>
-                  ・Charging times are the fastest. Can charge an EV to 80% power in 20 minutes.
+                    ・Bigger and expensive to build
+                  <br ></br>
+                  ・Feed power directly to the car's battery
                   <br ></br>
                   <br></br>
                   <span >Examples: Tesla Supercharger </span>

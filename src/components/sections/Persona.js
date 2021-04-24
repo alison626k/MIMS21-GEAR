@@ -51,7 +51,7 @@ const Persona = ({
 
   const sectionHeader = {
     title: 'EV Driver Persona',
-    paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
+    paragraph: 'What kind of people own EV in California? '
   };
 
   return (
@@ -74,10 +74,10 @@ const Persona = ({
                 <div className="features-tiles-item-content">
                 </div>
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Income Level Distribution
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  About 77% of EV drivers stand in the middle annual household income level (36k-90k per year). 7.5% low income( under 36k per year) own an EV car, so it shows that there is a bar to getting an EV car.
                     </p>               
               </div>
             </div>
@@ -112,10 +112,10 @@ const Persona = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    House Type
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  91.4% of EV drivers live in a signal family house. Only a few lives in an apartment. It could cause by its easier to charge their EV in the garage of the signal family house.
                     </p>
                 </div>
               </div>
@@ -132,10 +132,10 @@ const Persona = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Top 3 EV Brands
                     </h4>
                   <p className="m-0 text-sm">
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  91.4% of EV drivers live in a signal family house. Only a few lives in an apartment. It could cause by its easier to charge their EV in the garage of the signal family house.
                     </p>
                 </div>
               </div>
@@ -147,17 +147,17 @@ const Persona = ({
                   <div className="mb-1"style={{
                     height: 220
                   }} 
-                  style={{ paddingTop: "2em" , paddingRight: "5em" }}
+                  style={{ paddingTop: "2em"  }}
                   >
                     <ChargerTypeBar />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8">
-                    Robust Workflow
+                    Common Use Charger Type
                     </h4>
                   <p className="m-3 text-sm"     Style = {{marginLft:50}}>
-                    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat.
+                  Most EV drivers use the Level 2 charger at least 1 time per month. Level 1 comes to the second. The chart shows that EV drivers prefer free chargers. The result could be caused by the Level 2 charger is the most common public charger.
                     </p>
                 </div>
               </div>

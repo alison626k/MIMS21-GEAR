@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/MIMS21-GEAR/static/css/main.0eba2960.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.e6c796d0.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.e6c796d0.chunk.js.map",
+    "main.js": "/MIMS21-GEAR/static/js/main.b62f264b.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.b62f264b.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
     "static/js/2.4ea9e341.chunk.js": "/MIMS21-GEAR/static/js/2.4ea9e341.chunk.js",
     "static/js/2.4ea9e341.chunk.js.map": "/MIMS21-GEAR/static/js/2.4ea9e341.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.0f63e6dadf835cc0ff2e3ee50546e178.js": "/MIMS21-GEAR/precache-manifest.0f63e6dadf835cc0ff2e3ee50546e178.js",
+    "precache-manifest.75a42565dc23da5b0de58e637374e828.js": "/MIMS21-GEAR/precache-manifest.75a42565dc23da5b0de58e637374e828.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
     "static/css/main.0eba2960.chunk.css.map": "/MIMS21-GEAR/static/css/main.0eba2960.chunk.css.map",
     "static/js/2.4ea9e341.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.4ea9e341.chunk.js.LICENSE.txt",
     "static/media/Brand.376336f2.svg": "/MIMS21-GEAR/static/media/Brand.376336f2.svg",
-    "static/media/DC.png": "/MIMS21-GEAR/static/media/DC.c9b8a413.png",
+    "static/media/DC.png": "/MIMS21-GEAR/static/media/DC.ae34ce4f.png",
     "static/media/Driving.890c43fc.svg": "/MIMS21-GEAR/static/media/Driving.890c43fc.svg",
     "static/media/Housetype.a7523d00.svg": "/MIMS21-GEAR/static/media/Housetype.a7523d00.svg",
-    "static/media/Level1.png": "/MIMS21-GEAR/static/media/Level1.a82020e2.png",
-    "static/media/Level2.png": "/MIMS21-GEAR/static/media/Level2.62fa9e6c.png",
+    "static/media/Level1.png": "/MIMS21-GEAR/static/media/Level1.76579b6c.png",
+    "static/media/Level2.png": "/MIMS21-GEAR/static/media/Level2.7fd53b34.png",
     "static/media/Logo.png": "/MIMS21-GEAR/static/media/Logo.445ae77b.png",
     "static/media/Moneybag.b236a860.svg": "/MIMS21-GEAR/static/media/Moneybag.b236a860.svg",
     "static/media/carBackgroundClear.png": "/MIMS21-GEAR/static/media/carBackgroundClear.d9d81735.png",
@@ -35,6 +35,6 @@
     "static/js/runtime-main.7fa28056.js",
     "static/js/2.4ea9e341.chunk.js",
     "static/css/main.0eba2960.chunk.css",
-    "static/js/main.e6c796d0.chunk.js"
+    "static/js/main.b62f264b.chunk.js"
   ]
 }

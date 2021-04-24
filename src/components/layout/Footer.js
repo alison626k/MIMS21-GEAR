@@ -3,7 +3,6 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import FooterNav from './partials/FooterNav';
 import FooterSocial from './partials/FooterSocial';
-import logo from '../../assets/images/logo.png';
 
 
 const propTypes = {

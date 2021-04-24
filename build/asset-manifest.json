@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MIMS21-GEAR/static/css/main.0eba2960.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.ae5989f6.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.ae5989f6.chunk.js.map",
+    "main.js": "/MIMS21-GEAR/static/js/main.e6c796d0.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.e6c796d0.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
-    "static/js/2.a34f28fa.chunk.js": "/MIMS21-GEAR/static/js/2.a34f28fa.chunk.js",
-    "static/js/2.a34f28fa.chunk.js.map": "/MIMS21-GEAR/static/js/2.a34f28fa.chunk.js.map",
+    "static/js/2.4ea9e341.chunk.js": "/MIMS21-GEAR/static/js/2.4ea9e341.chunk.js",
+    "static/js/2.4ea9e341.chunk.js.map": "/MIMS21-GEAR/static/js/2.4ea9e341.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.3f093237225e2733dccf30cbb5ef335b.js": "/MIMS21-GEAR/precache-manifest.3f093237225e2733dccf30cbb5ef335b.js",
+    "precache-manifest.0f63e6dadf835cc0ff2e3ee50546e178.js": "/MIMS21-GEAR/precache-manifest.0f63e6dadf835cc0ff2e3ee50546e178.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
     "static/css/main.0eba2960.chunk.css.map": "/MIMS21-GEAR/static/css/main.0eba2960.chunk.css.map",
-    "static/js/2.a34f28fa.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.a34f28fa.chunk.js.LICENSE.txt",
+    "static/js/2.4ea9e341.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.4ea9e341.chunk.js.LICENSE.txt",
     "static/media/Brand.376336f2.svg": "/MIMS21-GEAR/static/media/Brand.376336f2.svg",
     "static/media/DC.png": "/MIMS21-GEAR/static/media/DC.c9b8a413.png",
     "static/media/Driving.890c43fc.svg": "/MIMS21-GEAR/static/media/Driving.890c43fc.svg",
@@ -29,13 +29,12 @@
     "static/media/feature-tile-icon-05.svg": "/MIMS21-GEAR/static/media/feature-tile-icon-05.fa9ba00b.svg",
     "static/media/features-split-image-01.png": "/MIMS21-GEAR/static/media/features-split-image-01.d9cb99ce.png",
     "static/media/features-split-image-02.png": "/MIMS21-GEAR/static/media/features-split-image-02.3c569239.png",
-    "static/media/features-split-image-03.png": "/MIMS21-GEAR/static/media/features-split-image-03.87e4d053.png",
-    "static/media/logo.png": "/MIMS21-GEAR/static/media/logo.445ae77b.png"
+    "static/media/features-split-image-03.png": "/MIMS21-GEAR/static/media/features-split-image-03.87e4d053.png"
   },
   "entrypoints": [
     "static/js/runtime-main.7fa28056.js",
-    "static/js/2.a34f28fa.chunk.js",
+    "static/js/2.4ea9e341.chunk.js",
     "static/css/main.0eba2960.chunk.css",
-    "static/js/main.ae5989f6.chunk.js"
+    "static/js/main.e6c796d0.chunk.js"
   ]
 }

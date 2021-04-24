@@ -10,6 +10,9 @@ import { ReactComponent as Brand } from '../../assets/images/Brand.svg';
 import ChargerConnivence from '../elements/ChargerConnivence';
 import IncomeLevelCharger from '../elements/IncomeLevelCharger';
 import WaitTimeChart from '../elements/WaitTimeChart';
+import { InView } from 'react-intersection-observer';
+import { useInView } from 'react-intersection-observer';
+
 
 
 const propTypes = {
@@ -62,6 +65,10 @@ const EvIssue = ({
     paragraph: 'Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum — semper quis lectus nulla at volutpat diam ut venenatis.'
   };
 
+  const [ref, inView] = useInView({
+    threshold: 0,
+  })
+  
   return (
     <section
       {...props}
@@ -122,12 +129,12 @@ const EvIssue = ({
               </div>
             </div>
 
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile " data-reveal-container=".split-item">
+            <div className="split-item" inView={inView}>
+              <div className="split-item-content center-content-mobile " data-reveal-container=".split-item" ref={ref}>
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   </div>
                 <h3 className="mt-0 mb-12">
-                Charging Connivence
+                Charging Connivence$ {inView}.
                   </h3>
                 <p className="m-0">
                   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
@@ -146,7 +153,6 @@ const EvIssue = ({
                 </div>
               </div>
             </div>
-
 
           </div>
         </div>

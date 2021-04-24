@@ -71,40 +71,17 @@ const BackgroundInfo = ({
             <div className="tiles-item reveal-from-bottom">
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
-                  <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
+                  <p className="text-sm mb-0" style ={{textAlign:'center'}}>
+                  California has set the goal of having 
+                  <br></br>
+                  <span className="text-color-error"style={{fontSize: '40pt', fontWeight:"bold",lineHeight:2 }}> 5 million </span>
+                  <br></br>
+                  Zero-Emission Vehicles (ZEVs) on the roads by 2030 and 250,000 electric vehicle charging stations by 2025. 
+                  The new Executive Order requires all new car sales in California are required to be 100% zero emission by 2035.
+                  1.5 million chargers are needed to support nearly 8 million ZEVs required under the new executive order.
+                  </p>
                 </div>
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
-
-          <div  style={{height: 800}} >
-          </div>
-
-        <div className="container">
-        <div className={innerClasses}>
-          <div className={tilesClasses} >
-            <div className="tiles-item reveal-from-bottom">
-              <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
-                  <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.
-                      </p>
-                </div>
-                <div className="testimonial-item-footer text-xs mt-32 mb-0 has-top-divider">
-                  <span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
-                  </span>
+                <div className=" text-xs mt-32 mb-0 ">
                 </div>
               </div>
             </div>
@@ -119,15 +96,43 @@ const BackgroundInfo = ({
             <div className="tiles-item reveal-from-bottom">
               <div className="tiles-item-inner">
                 <div className="testimonial-item-content">
-                  <p className="text-sm mb-0">
-                    — Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.uis aute irure dolor in reprehenderit in voluptate veliuis aute irure dolor in reprehenderit in voluptate veliuis aute irure dolor in reprehenderit in voluptate velixcepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum cillum dolore eu fugiat.uis aute irure dolor in reprehenderit in voluptate veliuis aute irure dolor in reprehenderit in voluptate veliuis aute irure dolor in reprehenderit in vol
-                      </p>
+                <p className="text-sm mb-0" style ={{textAlign:'center'}}>
+                The Electric Vehicles (EV) Industry is growing fast, 
+                and the cost parity between EV and conventional Internal Combustion Engine (ICE) vehicles 
+                is expected to happen around 
+                <br></br>
+                  <span className="text-color-error"style={{fontSize: '40pt', fontWeight:"bold",lineHeight:2 }}>  2028 </span>
+                  <br></br>
+                  So everything about EV should be great after 10 years from now.
+                  </p>
                 </div>
-                  <span className="testimonial-item-name text-color-high">Diana Rynzhuk</span>
-                  <span className="text-color-low"> / </span>
-                  <span className="testimonial-item-link">
-                    <a href="#0">AppName</a>
-                  </span>
+                <div className="text-xs mt-32 mb-0 ">
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div  style={{height: 800}} >
+          </div>
+
+        <div className="container">
+        <div className={innerClasses}>
+          <div className={tilesClasses} >
+            <div className="tiles-item reveal-from-bottom">
+              <div className="tiles-item-inner">
+                <div className="testimonial-item-content">
+                <p className="text-sm mb-0" style ={{textAlign:'center'}}>
+                California government is pushing on making EV more accessible for the general public. 
+                According consumer surveys, after vehicle costs and battery range, 
+                they think the availability of charging infrastructure is 
+                <br></br>
+                  <span className="text-color-error"style={{fontSize: '40pt', fontWeight:"bold",lineHeight:2 }}> the third barrier  </span>
+                  <br></br>
+                to EV penetration.
+                  </p>
+                </div>
+                <div className="text-xs mt-32 mb-0 ">
+              </div>
               </div>
             </div>
           </div>

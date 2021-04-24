@@ -67,6 +67,13 @@ const Hero = ({
       <div className="container-sm" >
         <div className={innerClasses}>
           <div className="hero-content" >
+            <div className="reveal-from-bottom" >
+          <Image
+                src={require('./../../assets/images/Logo.png')}
+                alt="Logo"
+                width={200}
+                height={200} />
+                </div>
             <h1 className="mt-0 mb-16 reveal-from-bottom" data-reveal-delay="200" style={{ fontSize: "40px"}}>
             <span className="text-color-secondary" >GEAR</span>
             </h1>
@@ -74,7 +81,7 @@ const Hero = ({
               <span className="text-color-secondary" >G</span>aps
               <span className="text-color-secondary"> E</span>xplorer for
               <span className="text-color-secondary"> A</span>ccessibility and
-              <span className="text-color-secondary"> R</span>esilience of California EV Charging Infrastructure
+              <span className="text-color-secondary"> R</span>esilience of California Electric Vehicles(EV) Charging Infrastructure
             </h1>
             <div className="container-xs">
               <p className="m-0 mb-32 reveal-from-bottom " data-reveal-delay="400">

@@ -2,7 +2,7 @@ import React, { useState, useRef, useEffect } from 'react';
 import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import { Link } from 'react-router-dom';
-import logo from '../../assets/images/logo.png';
+import Logo from '../../assets/images/Logo.png';
 
 const propTypes = {
   navPosition: PropTypes.string,
@@ -85,7 +85,6 @@ const Header = ({
             'site-header-inner',
             bottomDivider && 'has-bottom-divider'
           )}>
-          <img src={logo} alt={'logo'} width="60" height="60"/>
           {!hideNav &&
             <>
               <button
@@ -111,17 +110,11 @@ const Header = ({
                       'list-reset text-xs',
                       navPosition && `header-nav-${navPosition}`
                     )}>
-                    <li>
-                      <Link to="#0" onClick={closeMenu}>Documentation</Link>
-                    </li>
                   </ul>
                   {!hideSignin &&
                     <ul
                       className="list-reset header-nav-right"
                     >
-                      <li>
-                        <Link to="#0" className="button button-primary button-wide-mobile button-sm" onClick={closeMenu}>Sign up</Link>
-                      </li>
                     </ul>}
                 </div>
               </nav>

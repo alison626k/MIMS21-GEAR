@@ -8,6 +8,7 @@ import Testimonial from '../components/sections/Testimonial';
 import BackgroundInfo from '../components/sections/BackgroundInfo';
 import Cta from '../components/sections/Cta';
 import Persona from '../components/sections/Persona';
+import EVChargerType from '../components/sections/EVChargerType';
 
 
 const Home = () => {
@@ -16,6 +17,7 @@ const Home = () => {
     <>
       <Hero className="illustration-section-01" />
       <BackgroundInfo />
+      <EVChargerType />
       <Persona />
       <EvIssue/>
       <FeaturesTiles />

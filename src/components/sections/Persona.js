@@ -131,7 +131,7 @@ const Persona = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-0">
                     Top 3 EV Brands
                     </h4>
                   <p className="m-0 text-sm">
@@ -153,7 +153,7 @@ const Persona = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-0">
                     Common Use Charger Type
                     </h4>
                   <p className="m-3 text-sm"     Style = {{marginLft:50}}>

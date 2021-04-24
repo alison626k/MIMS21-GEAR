@@ -1,20 +1,24 @@
 {
   "files": {
-    "main.css": "/MIMS21-GEAR/static/css/main.927049d3.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.8ad47380.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.8ad47380.chunk.js.map",
+    "main.css": "/MIMS21-GEAR/static/css/main.0eba2960.chunk.css",
+    "main.js": "/MIMS21-GEAR/static/js/main.ae5989f6.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.ae5989f6.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
-    "static/js/2.0182a143.chunk.js": "/MIMS21-GEAR/static/js/2.0182a143.chunk.js",
-    "static/js/2.0182a143.chunk.js.map": "/MIMS21-GEAR/static/js/2.0182a143.chunk.js.map",
+    "static/js/2.a34f28fa.chunk.js": "/MIMS21-GEAR/static/js/2.a34f28fa.chunk.js",
+    "static/js/2.a34f28fa.chunk.js.map": "/MIMS21-GEAR/static/js/2.a34f28fa.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.e1d839f557a511030729283349560124.js": "/MIMS21-GEAR/precache-manifest.e1d839f557a511030729283349560124.js",
+    "precache-manifest.3f093237225e2733dccf30cbb5ef335b.js": "/MIMS21-GEAR/precache-manifest.3f093237225e2733dccf30cbb5ef335b.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
-    "static/css/main.927049d3.chunk.css.map": "/MIMS21-GEAR/static/css/main.927049d3.chunk.css.map",
-    "static/js/2.0182a143.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.0182a143.chunk.js.LICENSE.txt",
+    "static/css/main.0eba2960.chunk.css.map": "/MIMS21-GEAR/static/css/main.0eba2960.chunk.css.map",
+    "static/js/2.a34f28fa.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.a34f28fa.chunk.js.LICENSE.txt",
     "static/media/Brand.376336f2.svg": "/MIMS21-GEAR/static/media/Brand.376336f2.svg",
+    "static/media/DC.png": "/MIMS21-GEAR/static/media/DC.c9b8a413.png",
     "static/media/Driving.890c43fc.svg": "/MIMS21-GEAR/static/media/Driving.890c43fc.svg",
     "static/media/Housetype.a7523d00.svg": "/MIMS21-GEAR/static/media/Housetype.a7523d00.svg",
+    "static/media/Level1.png": "/MIMS21-GEAR/static/media/Level1.a82020e2.png",
+    "static/media/Level2.png": "/MIMS21-GEAR/static/media/Level2.62fa9e6c.png",
+    "static/media/Logo.png": "/MIMS21-GEAR/static/media/Logo.445ae77b.png",
     "static/media/Moneybag.b236a860.svg": "/MIMS21-GEAR/static/media/Moneybag.b236a860.svg",
     "static/media/carBackgroundClear.png": "/MIMS21-GEAR/static/media/carBackgroundClear.d9d81735.png",
     "static/media/style.scss": "/MIMS21-GEAR/static/media/illustration-section-02.63d0555d.svg",
@@ -30,8 +34,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7fa28056.js",
-    "static/js/2.0182a143.chunk.js",
-    "static/css/main.927049d3.chunk.css",
-    "static/js/main.8ad47380.chunk.js"
+    "static/js/2.a34f28fa.chunk.js",
+    "static/css/main.0eba2960.chunk.css",
+    "static/js/main.ae5989f6.chunk.js"
   ]
 }

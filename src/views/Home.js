@@ -9,6 +9,7 @@ import BackgroundInfo from '../components/sections/BackgroundInfo';
 import Cta from '../components/sections/Cta';
 import Persona from '../components/sections/Persona';
 import EVChargerType from '../components/sections/EVChargerType';
+import Equity from '../components/sections/Equity';
 
 
 const Home = () => {
@@ -20,6 +21,7 @@ const Home = () => {
       <EVChargerType />
       <Persona />
       <EvIssue/>
+      <Equity/>
       <FeaturesTiles />
       <FeaturesSplit invertMobile topDivider imageFill className="illustration-section-02" />
       <Testimonial topDivider />

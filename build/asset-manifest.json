@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MIMS21-GEAR/static/css/main.0eba2960.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.459daff3.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.459daff3.chunk.js.map",
+    "main.js": "/MIMS21-GEAR/static/js/main.524a03a1.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.524a03a1.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
-    "static/js/2.bc452696.chunk.js": "/MIMS21-GEAR/static/js/2.bc452696.chunk.js",
-    "static/js/2.bc452696.chunk.js.map": "/MIMS21-GEAR/static/js/2.bc452696.chunk.js.map",
+    "static/js/2.05fdcb66.chunk.js": "/MIMS21-GEAR/static/js/2.05fdcb66.chunk.js",
+    "static/js/2.05fdcb66.chunk.js.map": "/MIMS21-GEAR/static/js/2.05fdcb66.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.7d4dca23783e74f95d850086c95a04a4.js": "/MIMS21-GEAR/precache-manifest.7d4dca23783e74f95d850086c95a04a4.js",
+    "precache-manifest.d818c0acc69095358ea01335ce1a5cf9.js": "/MIMS21-GEAR/precache-manifest.d818c0acc69095358ea01335ce1a5cf9.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
     "static/css/main.0eba2960.chunk.css.map": "/MIMS21-GEAR/static/css/main.0eba2960.chunk.css.map",
-    "static/js/2.bc452696.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.bc452696.chunk.js.LICENSE.txt",
+    "static/js/2.05fdcb66.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.05fdcb66.chunk.js.LICENSE.txt",
     "static/media/Brand.376336f2.svg": "/MIMS21-GEAR/static/media/Brand.376336f2.svg",
     "static/media/DC.png": "/MIMS21-GEAR/static/media/DC.ae34ce4f.png",
     "static/media/Driving.890c43fc.svg": "/MIMS21-GEAR/static/media/Driving.890c43fc.svg",
@@ -33,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7fa28056.js",
-    "static/js/2.bc452696.chunk.js",
+    "static/js/2.05fdcb66.chunk.js",
     "static/css/main.0eba2960.chunk.css",
-    "static/js/main.459daff3.chunk.js"
+    "static/js/main.524a03a1.chunk.js"
   ]
 }

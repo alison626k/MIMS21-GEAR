@@ -12,8 +12,8 @@ class EquityHouse extends Component {
       const vizUrl =
         "https://public.tableau.com/views/Multi-unitVSchargingstation/multi-unit?:language=en&:display_count=y&publish=yes&:origin=viz_share_link";
       const options = {
-        height: "100vh",
-        width: "100%",
+        height: "600px",
+        width: "600px",
         hideTabs: true,
         hideToolbar: true,
         backgroundColor: '#151719'

@@ -58,7 +58,6 @@ const Cta = ({
               <iframe width="100%" height="384" frameborder="0"
               src="https://observablehq.com/embed/@info247-spring21/lab-11-d3-tutorial-2-creating-an-arc-diagram-with-animated-tr/8?cells=animatedNodes2"></iframe>
               </h3>
-              <Test/>
           </div>
           <div className="cta-action">
             <Input id="newsletter" type="email" label="Subscribe" labelHidden hasIcon="right" placeholder="Your best email">

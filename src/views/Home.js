@@ -10,6 +10,7 @@ import Cta from '../components/sections/Cta';
 import Persona from '../components/sections/Persona';
 import EVChargerType from '../components/sections/EVChargerType';
 import Equity from '../components/sections/Equity';
+import City from '../components/sections/City';
 
 
 const Home = () => {
@@ -22,6 +23,7 @@ const Home = () => {
       <Persona />
       <EvIssue/>
       <Equity/>
+      <City/>
       <FeaturesTiles />
       <FeaturesSplit invertMobile topDivider imageFill className="illustration-section-02" />
       <Testimonial topDivider />

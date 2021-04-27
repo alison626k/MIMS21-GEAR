@@ -10,9 +10,9 @@ class EquityIncome extends Component {
     //Function call API
     initViz() {
       const vizUrl =
-        "https://public.tableau.com/views/MedIncomechargertype/Sheet14?:language=en&:display_count=y&publish=yes&:origin=viz_share_link";
+        "https://public.tableau.com/views/HouseholdMedIncomeChargertype/MedIncome?:language=en&:display_count=y&publish=yes&:origin=viz_share_link";
       const options = {
-        height: "100vh",
+        height: "600px",
         width: "100%",
         hideTabs: true,
         hideToolbar: true,

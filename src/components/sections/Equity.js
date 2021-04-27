@@ -74,65 +74,46 @@ const Equity = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                Number of Charging Station VS Capital
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Need to be filled
                   </p>
-                  < EquityCapital style={{height: "50"}} />
+                  < EquityCapital  style={{paddingLeft:-200}}/>
               </div>
+
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                Number of Charging Station VS housing types
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Need to be filled
                   </p>
-                  < EquityHouse style={{height: 50 }} />
+                  < EquityHouse  />
               </div>
             </div>
 
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                Number of Charging Station VS housing types
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Need to be filled
                   </p>
-                  < EquityIncome style={{height: 50 }} />
+                  < EquityIncome  />
               </div>
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
                 <h3 className="mt-0 mb-12">
                   Data-driven insights
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                Need to be filled
                   </p>
-                  < EquityJob style={{height: "50"}} />
+                  < EquityJob />
               </div>
             </div>
 
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <h3 className="mt-0 mb-12">
-                  Data-driven insights
-                  </h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
-                  < Test/>
-              </div>
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
-                <h3 className="mt-0 mb-12">
-                  Data-driven insights
-                  </h3>
-                <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-                  </p>
-                  
-              </div>
-            </div>
 
 
           </div>

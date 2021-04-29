@@ -71,21 +71,19 @@ const EVChargerType = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-8" style={{marginTop:15}}>
                     Level 1 (120V)
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}}>
-                  ・Charge 2-5 mile/hr 
+                    👀 Any normal socket
                     <br ></br>
-                    ・Often replenished overnight (15+ hours) to fully charger an EV car 
                     <br ></br>
-                    ・Easy to get access.
+                    👍 Easy to get access at home. 
                     <br ></br>
-                    ・Use a normal 120-volt Alternating Current (AC) power source
+                    👎 Charge slow. Fully charge in 15+ hours.
                     <br ></br>
-                  <br></br>
-                  <span >Examples: Any normal socket  </span>
-                  <br></br>
+                    😢 Like on diet for EV, slow energy supply and needs support.
+                    <br ></br>
                     </p>
                 </div>
               </div>
@@ -99,25 +97,24 @@ const EVChargerType = ({
                       src={require('./../../assets/images/Level2.png')}
                       alt="Level2"
                       width={300}
-                      height={240} />
+                      height={240}
+                      />
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-8" style={{marginTop:15}}>
                     Level 2 (240V)
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}} >
-                  ・Charge 10-20 mile/hr
+                  👀  Most Public Charger
                   <br ></br>
-                  ・Can fully charge an EV in just a few hours
                   <br ></br>
-                  ・Most common public charger type
+                  👍 Easy to get access at public. 
                   <br ></br>
-                  ・Use a higher-output 240-volt Alternating Current (AC) power source
+                  👍 Fully charge in 3-5 hours. 
                   <br ></br>
-                  <br></br>
-                  <span >Examples: Hotels, Public Stations </span>
-                  <br></br>
+                  🙂 Like a Regular diet for EV, daily usage case.
+                  <br ></br>
                     </p>
                 </div>
               </div>
@@ -135,21 +132,19 @@ const EVChargerType = ({
                   </div>
                 </div>
                 <div className="features-tiles-item-content">
-                  <h4 className="mt-0 mb-8">
+                  <h4 className="mt-0 mb-8" style={{marginTop:15}}>
                   Direct Current (DC) Fast Charger
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}}>
-                  ・Charge 180-240 mile/hr
+                  👀  Only Super Charger
                   <br ></br>
-                  ・Can charge an EV to 80% power in 20 minutes 
                   <br ></br>
-                    ・Bigger and expensive to build
+                  👍 Charge fast.Fully charge in 40 mins. 
                   <br ></br>
-                  ・Feed power directly to the car's battery
+                  👎 Expensive to build. 
                   <br ></br>
-                  <br></br>
-                  <span >Examples: Tesla Supercharger </span>
-                  <br></br>
+                  😃 Like a Energy shot for EV, but can not live on it because it will be bad for battery health.
+                  <br ></br>
                     </p>
                 </div>
               </div>

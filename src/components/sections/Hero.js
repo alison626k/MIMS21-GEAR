@@ -67,9 +67,6 @@ const Hero = ({
       <div className="container-sm" >
         <div className={innerClasses}>
           <div className="hero-content" >
-            <h1 className="mt-0 mb-16 reveal-from-bottom invert-color" data-reveal-delay="200" style={{ fontSize: "40px"}}>
-            <span className="text-color-secondary" >GEA</span>R
-            </h1>
             <h1 className="mt-0 mb-16 reveal-from-bottom invert-color" data-reveal-delay="200"  >
               <span className="text-color-secondary" >G</span>aps
               <span className="text-color-secondary"> E</span>xplorer for

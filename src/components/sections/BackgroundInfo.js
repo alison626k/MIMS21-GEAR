@@ -76,9 +76,9 @@ const BackgroundInfo = ({
                   What will happen in the next 10 years for the Electric Vehicles in California?
                   <br></br>
                   <br></br>
-                  California government has set the goal of having 
+                  California has set the goal of having 
                   <br></br>
-                  <span className="text-color-error"style={{fontSize: '30pt', fontWeight:"bold",lineHeight:1 }}> 5 million Zero-Emission Vehicles (ZEVs) </span>
+                  <span className="text-color-error"style={{fontSize: '30pt', fontWeight:"bold",lineHeight:1 }}> 5 million Zero-Emission Vehicles </span>
                   <br></br>
                   on the roads by 2030 and 250,000 electric vehicle charging stations by 2025. 
                   The new Executive Order requires all new car sales in California are required to be 100% zero emission by 2035.
@@ -101,8 +101,8 @@ const BackgroundInfo = ({
               style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
                 <div className="testimonial-item-content">
                 <p className="text-sm mb-0" style ={{textAlign:'center'}}>
-                Therefore, 1.5 million chargers are needed to support nearly 8 million ZEVs required under the new executive order. 
-                The Electric Vehicles(EVs), including plug-in hybrid vehicles and battery electric vehicles, stands over 80% in the ZEVs. 
+                Therefore, 1.5 million chargers are needed to support nearly 8 million Zero-Emission Vehicles required under the new executive order. 
+                The Electric Vehicles(EVs), including plug-in hybrid vehicles and battery electric vehicles, stands over 80% in the Zero-Emission Vehicles. 
                   </p>
                 </div>
                 <div className="text-xs mt-32 mb-0 ">

@@ -46,7 +46,7 @@ const EVChargerType = ({
 
   const sectionHeader  = {
     title: 'EV Charger Type',
-    paragraph: "There are three levels to charging EVs based on varying speed and power. It starts with the lowest charging at Level 1 and gets faster from there. It's important to understand these charger because they each gets pros and cons and sets a role in EV system behaviors."
+    paragraph: "There are three levels to charging EVs based on varying speed and power. It starts with the lowest charging at Level 1 and gets faster from there. It's important to understand these charger because they each sets different roles in EV system behaviors."
   };
 
   return (

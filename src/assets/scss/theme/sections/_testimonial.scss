@@ -1,9 +1,12 @@
 .testimonial {
     background: get-color(primary, 2);
+    background-repeat: no-repeat;
 	.tiles-item-inner {
 		background: get-color(light, 1);	
 	}
 }
+.img3 { background-image: url(../../../images/illustration-section-02.svg); }
+.img2 { background-image: url(../../../images/carBackgroundClear.png); }
 
 .testimonial-item-content {
     position: relative;
@@ -16,7 +19,7 @@
         margin-top: 12px;
         margin-bottom: 16px;
         background-repeat: no-repeat;
-    }		
+    }
 }
 
 .testimonial-item-footer {

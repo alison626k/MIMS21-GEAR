@@ -68,10 +68,10 @@ const City = ({
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
           <h3 className="mt-16 mb-12">
-                  Data-driven insights
+          Composition of Chargers in LA and SF
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  need to be filled
                   </p>    
                   <div>
                   <CityCharger 
@@ -82,10 +82,10 @@ const City = ({
 
 <div>
           <h3 className="mt-16 mb-12" style ={{marginTop:"100px"}}>
-                  Data-driven insights
+          The Gaps to Reach Public Chargers Needed in 2025 and 2030 are Very Big
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  need to be filled
                   </p>    
           <ChargerGap 
                 width={200}
@@ -96,10 +96,10 @@ const City = ({
 
                 <div>
           <h3 className="mt-16 mb-12" style ={{marginTop:"80px"}}>
-                  Data-driven insights
+          Effective Policies can Help Meeting Charging Needs Much Easier- LA
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  need to be filled
                   </p>    
           <LARemain
                 width={200}
@@ -108,10 +108,10 @@ const City = ({
 
                 <div>
           <h3 className="mt-16 mb-12" style ={{marginTop:"100px"}}>
-                  Data-driven insights
+          Effective Policies can Help Meeting Charging Needs Much Easier- SF
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  need to be filled
                   </p>    
           <SFRemain
                 width={200}

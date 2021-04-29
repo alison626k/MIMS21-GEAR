@@ -136,10 +136,10 @@ const EvIssue = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   </div>
                 <h3 className="mt-0 mb-12">
-                Charging Connivence$ {inView}.
+                Charging Connivence {inView}.
                   </h3>
                 <p className="m-0">
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua — Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+                  Need to be filled
                   </p>
               </div>
               <div className={

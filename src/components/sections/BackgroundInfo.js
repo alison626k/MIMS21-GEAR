@@ -3,7 +3,7 @@ import classNames from 'classnames';
 import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
 import carBackgroundClear from '../../assets/images/carBackgroundClear.png';
-
+import ezgif from '../../assets/images/ezgif.png';
 
 const propTypes = {
   ...SectionTilesProps.types
@@ -55,30 +55,33 @@ const BackgroundInfo = ({
       {...props}
       className={outerClasses}
       style={{ 
-        backgroundImage: `url(${carBackgroundClear})` ,
+        backgroundImage: `url(${ezgif})` ,
         backgroundRepeat: "no-repeat",
         backgroundPosition: 'center',
         backgroundAttachment: 'fixed',
         backgroundSize:"cover",
       }}
     >
-      <div  style={{height: 500}} >
+      <div  style={{height: 200}} >
       </div>
 
       <div className="container">
         <div className={innerClasses}>
           <div className={tilesClasses} >
-            <div className="tiles-item reveal-from-bottom">
-              <div className="tiles-item-inner">
-                <div className="testimonial-item-content">
+            <div className="tiles-item reveal-from-bottom" >
+              <div className="tiles-item-inner" 
+              style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
+                <div className="testimonial-item-content" >
                   <p className="text-sm mb-0" style ={{textAlign:'center'}}>
-                  California has set the goal of having 
+                  What will happen in the next 10 years for the Electric Vehicles in California?
                   <br></br>
-                  <span className="text-color-error"style={{fontSize: '40pt', fontWeight:"bold",lineHeight:2 }}> 5 million </span>
                   <br></br>
-                  Zero-Emission Vehicles (ZEVs) on the roads by 2030 and 250,000 electric vehicle charging stations by 2025. 
+                  California government has set the goal of having 
+                  <br></br>
+                  <span className="text-color-error"style={{fontSize: '30pt', fontWeight:"bold",lineHeight:1 }}> 5 million Zero-Emission Vehicles (ZEVs) </span>
+                  <br></br>
+                  on the roads by 2030 and 250,000 electric vehicle charging stations by 2025. 
                   The new Executive Order requires all new car sales in California are required to be 100% zero emission by 2035.
-                  1.5 million chargers are needed to support nearly 8 million ZEVs required under the new executive order.
                   </p>
                 </div>
                 <div className=" text-xs mt-32 mb-0 ">
@@ -87,23 +90,19 @@ const BackgroundInfo = ({
             </div>
           </div>
 
-          <div  style={{height: 800}} >
+          <div  style={{height: 500}} >
           </div>
 
-        <div className="container">
+        <div className="container" >
         <div className={innerClasses}>
           <div className={tilesClasses} >
             <div className="tiles-item reveal-from-bottom">
-              <div className="tiles-item-inner">
+              <div className="tiles-item-inner" 
+              style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
                 <div className="testimonial-item-content">
                 <p className="text-sm mb-0" style ={{textAlign:'center'}}>
-                The Electric Vehicles (EV) Industry is growing fast, 
-                and the cost parity between EV and conventional Internal Combustion Engine (ICE) vehicles 
-                is expected to happen around 
-                <br></br>
-                  <span className="text-color-error"style={{fontSize: '40pt', fontWeight:"bold",lineHeight:2 }}>  2028 </span>
-                  <br></br>
-                  So everything about EV should be great after 10 years from now.
+                Therefore, 1.5 million chargers are needed to support nearly 8 million ZEVs required under the new executive order. 
+                The Electric Vehicles(EVs), including plug-in hybrid vehicles and battery electric vehicles, stands over 80% in the ZEVs. 
                   </p>
                 </div>
                 <div className="text-xs mt-32 mb-0 ">
@@ -112,21 +111,22 @@ const BackgroundInfo = ({
             </div>
           </div>
 
-          <div  style={{height: 800}} >
+          <div  style={{height: 500}} >
           </div>
 
         <div className="container">
         <div className={innerClasses}>
           <div className={tilesClasses} >
-            <div className="tiles-item reveal-from-bottom">
-              <div className="tiles-item-inner">
+            <div className="tiles-item reveal-from-bottom fade-out">
+              <div className="tiles-item-inner" 
+              style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
                 <div className="testimonial-item-content">
                 <p className="text-sm mb-0" style ={{textAlign:'center'}}>
-                California government is pushing on making EV more accessible for the general public. 
+                Now,California government is pushing on making EV more accessible for the general public. 
                 According consumer surveys, after vehicle costs and battery range, 
-                they think the availability of charging infrastructure is 
+                they think 
                 <br></br>
-                  <span className="text-color-error"style={{fontSize: '40pt', fontWeight:"bold",lineHeight:2 }}> the third barrier  </span>
+                  <span className="text-color-error"style={{fontSize: '30pt', fontWeight:"bold",lineHeight:1 }}> the availability of charging infrastructure is the third barrier  </span>
                   <br></br>
                 to EV penetration.
                   </p>
@@ -137,7 +137,7 @@ const BackgroundInfo = ({
             </div>
           </div>
           
-          <div  style={{height: 400}} >
+          <div  style={{height: 150}} >
           </div>
 
           </div>

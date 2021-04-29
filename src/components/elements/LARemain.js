@@ -10,7 +10,7 @@ class LARemain extends Component {
     //Function call API
     initViz() {
       const vizUrl =
-        "https://public.tableau.com/views/EVCharging/SFForecastedDemand?:language=en&:display_count=y&:origin=viz_share_link";
+        "https://public.tableau.com/views/EVCharging/LAForecastedDemand?:language=en&:display_count=y&:origin=viz_share_link";
       const options = {
         height: "600px",
         width: "100%",

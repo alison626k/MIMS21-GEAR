@@ -9,7 +9,7 @@ import { ReactComponent as Housetype } from '../../assets/images/Housetype.svg';
 import { ReactComponent as Brand } from '../../assets/images/Brand.svg';
 import ChargerConnivence from '../elements/ChargerConnivence';
 import IncomeLevelCharger from '../elements/IncomeLevelCharger';
-import WaitTimeChart from '../elements/WaitTimeChart';
+import Waiting from '../elements/Waiting';
 import { InView } from 'react-intersection-observer';
 import { useInView } from 'react-intersection-observer';
 
@@ -80,46 +80,46 @@ const EvIssue = ({
           <div className={splitClasses}>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile " data-reveal-container=".split-item">
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   </div>
                 <h3 className="mt-0 mb-12">
                 Often Wait for a Public Charger
                   </h3>
                 <p className="m-0">
-                Drivers respond that no matter how long miles do they drive, they experience half of the time they have to wait for a public charger. Even after driving over 10 miles, the situation remains. 
+                (need to change)Drivers respond that no matter how long miles do they drive, they experience half of the time they have to wait for a public charger. Even after driving over 10 miles, the situation remains. 
                 Waiting for a public charger is an issue that makes drivers take charging EV inconvenience.
                   </p>
               </div>
               <div className={
                 classNames(
-                  'split-item-image center-content-mobile ',
+                  'split-item-image center-content-mobile reveal-from-right',
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item" >
                       <div style={{
-                    height: 360
+                    height: 360 ,marginBottom: -150, marginTop: -60
                   }}>
-                    <WaitTimeChart />
+                    <Waiting />
                     </div>
               </div>
             </div>
 
             <div className="split-item">
-              <div className="split-item-content center-content-mobile " data-reveal-container=".split-item">
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   </div>
                 <h3 className="mt-0 mb-12">
                 Higher Income Area Gets More Public Chargers
                   </h3>
                 <p className="m-0">
-                Rumors say the high-income level living area has more public chargers. Statics support the hypothesis that low-income level gets a higher percentage that they do not see any charging station, but the higher income level sees more charger stations nearby.
+                (need to change)Rumors say the high-income level living area has more public chargers. Statics support the hypothesis that low-income level gets a higher percentage that they do not see any charging station, but the higher income level sees more charger stations nearby.
                  This causes inconvenience to the low-income group.
                   </p>
               </div>
               <div className={
                 classNames(
-                  'split-item-image center-content-mobile ',
+                  'split-item-image center-content-mobile reveal-from-right',
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
@@ -132,7 +132,7 @@ const EvIssue = ({
             </div>
 
             <div className="split-item" inView={inView}>
-              <div className="split-item-content center-content-mobile " data-reveal-container=".split-item" ref={ref}>
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" ref={ref}>
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   </div>
                 <h3 className="mt-0 mb-12">
@@ -144,7 +144,7 @@ const EvIssue = ({
               </div>
               <div className={
                 classNames(
-                  'split-item-image center-content-mobile ',
+                  'split-item-image center-content-mobile reveal-from-right',
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">

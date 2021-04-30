@@ -1,21 +1,23 @@
 {
   "files": {
     "main.css": "/MIMS21-GEAR/static/css/main.7999ede8.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.7d2fc3ae.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.7d2fc3ae.chunk.js.map",
+    "main.js": "/MIMS21-GEAR/static/js/main.30de94be.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.30de94be.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
-    "static/js/2.eeb6dad8.chunk.js": "/MIMS21-GEAR/static/js/2.eeb6dad8.chunk.js",
-    "static/js/2.eeb6dad8.chunk.js.map": "/MIMS21-GEAR/static/js/2.eeb6dad8.chunk.js.map",
+    "static/js/2.f011ccef.chunk.js": "/MIMS21-GEAR/static/js/2.f011ccef.chunk.js",
+    "static/js/2.f011ccef.chunk.js.map": "/MIMS21-GEAR/static/js/2.f011ccef.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.c15fa0e784dd06fdd8b4ce3609ee9a45.js": "/MIMS21-GEAR/precache-manifest.c15fa0e784dd06fdd8b4ce3609ee9a45.js",
+    "precache-manifest.3da8dbc00d3d2301281dc2aafabc401d.js": "/MIMS21-GEAR/precache-manifest.3da8dbc00d3d2301281dc2aafabc401d.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
     "static/css/main.7999ede8.chunk.css.map": "/MIMS21-GEAR/static/css/main.7999ede8.chunk.css.map",
-    "static/js/2.eeb6dad8.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.eeb6dad8.chunk.js.LICENSE.txt",
-    "static/media/Brand.376336f2.svg": "/MIMS21-GEAR/static/media/Brand.376336f2.svg",
+    "static/js/2.f011ccef.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.f011ccef.chunk.js.LICENSE.txt",
+    "static/media/Brand.1119abb2.svg": "/MIMS21-GEAR/static/media/Brand.1119abb2.svg",
+    "static/media/ChargerType.png": "/MIMS21-GEAR/static/media/ChargerType.1c4b2f91.png",
     "static/media/DC.png": "/MIMS21-GEAR/static/media/DC.7283d3ab.png",
     "static/media/Driving.890c43fc.svg": "/MIMS21-GEAR/static/media/Driving.890c43fc.svg",
-    "static/media/Housetype.a7523d00.svg": "/MIMS21-GEAR/static/media/Housetype.a7523d00.svg",
+    "static/media/Housetype.b683f282.svg": "/MIMS21-GEAR/static/media/Housetype.b683f282.svg",
+    "static/media/Income.317a1374.svg": "/MIMS21-GEAR/static/media/Income.317a1374.svg",
     "static/media/Level1.png": "/MIMS21-GEAR/static/media/Level1.2a50041a.png",
     "static/media/Level2.png": "/MIMS21-GEAR/static/media/Level2.324b44ab.png",
     "static/media/Logo.png": "/MIMS21-GEAR/static/media/Logo.445ae77b.png",
@@ -33,8 +35,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7fa28056.js",
-    "static/js/2.eeb6dad8.chunk.js",
+    "static/js/2.f011ccef.chunk.js",
     "static/css/main.7999ede8.chunk.css",
-    "static/js/main.7d2fc3ae.chunk.js"
+    "static/js/main.30de94be.chunk.js"
   ]
 }

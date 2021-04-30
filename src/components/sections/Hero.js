@@ -70,11 +70,16 @@ const Hero = ({
             <h1 className="mt-0 mb-16 reveal-from-bottom invert-color" data-reveal-delay="200"  >
               <span className="text-color-secondary" >G</span>aps
               <span className="text-color-secondary"> E</span>xplorer for
-              <span className="text-color-secondary"> A</span>ccessibility of 
-               California Electric Vehicles(EV) Charging Infrastructure
+              <span className="text-color-secondary"> A</span>ccessibility and
+              <span className="text-color-secondary"> R</span>esilience of California Electric Vehicles(EV) Charging Infrastructure
             </h1>
-            <div className="container-xs">
-            </div>
+            <div className="reveal-from-bottom" >
+          <Image
+                src={require('./../../assets/images/Head.png')}
+                alt="Head"
+                width={600}
+                height={0} />
+                </div>
           </div>
         </div>
       </div>

@@ -124,8 +124,14 @@ const Persona = ({
             <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className=" mb-16"  style={{height:245, marginBottom:-50, marginTop:25}} >
-                <Brand fill='#184d47' />
+                <div className="mb-1" style={{height:245, marginBottom:-50, marginTop:25}} 
+                  >
+                    <Image
+                      src={require('./../../assets/images/Brand.png')}
+                      alt="Brand"
+                      width={400}
+                      height={400}
+                      />
                   </div>
                 </div>
                 <div className="features-tiles-item-content" Style = {{marginBottom:-100}}>

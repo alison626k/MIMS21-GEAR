@@ -11,6 +11,8 @@ import Persona from '../components/sections/Persona';
 import EVChargerType from '../components/sections/EVChargerType';
 import Equity from '../components/sections/Equity';
 import City from '../components/sections/City';
+import Future from '../components/sections/Future';
+import IssueAndScale from '../components/sections/IssueAndScale';
 
 
 const Home = () => {
@@ -22,11 +24,10 @@ const Home = () => {
       <EVChargerType />
       <Persona />
       <EvIssue/>
+      <IssueAndScale/>
       <Equity/>
       <City/>
-      <FeaturesTiles />
-      <FeaturesSplit invertMobile topDivider imageFill className="illustration-section-02" />
-      <Testimonial topDivider />
+      <Future />
     </>
   );
 }

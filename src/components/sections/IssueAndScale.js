@@ -2,8 +2,6 @@ import React from 'react';
 import classNames from 'classnames';
 import { SectionTilesProps } from '../../utils/SectionProps';
 import SectionHeader from './partials/SectionHeader';
-import carBackgroundClear from '../../assets/images/carBackgroundClear.png';
-import ezgif from '../../assets/images/ezgif.png';
 
 const propTypes = {
   ...SectionTilesProps.types
@@ -60,7 +58,7 @@ const IssueAndScale = ({
         <div className={innerClasses} >
           <div className={tilesClasses} >
             <div className="reveal-from-bottom"  >
-                <div  style={{lineHeight:'100vh'}}>
+                <div >
                   <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '30pt' ,lineHeight:1.5}}>
                   EV drivers currently facing in charger issues. Now looking at the California scale, the whole picture become clear. The charger equity is imbalanced.
                   </h3>

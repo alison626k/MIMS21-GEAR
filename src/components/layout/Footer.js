@@ -40,9 +40,11 @@ const Footer = ({
             topDivider && 'has-top-divider'
           )}
           style={{ fontSize: "12px"}}>
-            <p className="invert-color">UC-Berkeley School of Information, GEAR 2021. 
+            <p className="invert-color">University of California, Berkeley, School of Information, MIMS 2021. 
             <br></br>
-            Created by:Wenqi Luo, Alison Kuo,Yin Qui, Coco Wang. All right reserved.</p>
+            Created by: Wenqi Luo, Alison Kuo, Yin Qui, Coco Wang 
+            <br></br>
+            All right reserved.</p>
             </div>
           </div>
     </footer>

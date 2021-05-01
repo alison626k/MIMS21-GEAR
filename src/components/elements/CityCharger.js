@@ -10,7 +10,7 @@ class CityCharger extends Component {
     //Function call API
     initViz() {
       const vizUrl =
-        "https://public.tableau.com/views/EVCharging/HomeChargersDominate?:language=en&:display_count=y&publish=yes&:origin=viz_share_link](https://public.tableau.com/views/EVCharging/HomeChargersDominate?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)";
+        "https://prod-apnortheast-a.online.tableau.com/t/alison/views/EVWaffleCharts/Dashboard2?:showAppBanner=false&:display_count=n&:showVizHome=n&:origin=viz_share_link";
       const options = {
         height: "600px",
         width: "100%",

@@ -72,15 +72,14 @@ const City = ({
                   </h3>
                 <p className="m-0">
                   need to be filled
+                  
                   </p>    
-          <ChargerGap 
-                width={200}
-                height={200} />
+          <ChargerGap  />
                 </div>
 
 
                 <div>
-          <h3 className="mt-16 mb-12" style ={{marginTop:"80px"}}>
+          <h3 className=" mb-12" style ={{marginTop:"-150px"}}>
           Effective Policies can Help Meeting Charging Needs Much Easier- LA
                   </h3>
                 <p className="m-0">
@@ -88,7 +87,7 @@ const City = ({
                   </p>    
           <LARemain
                 width={200}
-                height={200} />
+                height={500} />
                 </div>
 
                 <div>

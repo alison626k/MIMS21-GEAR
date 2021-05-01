@@ -6,7 +6,6 @@ import Image from '../elements/Image';
 import EquityCapital from '../elements/EquityCapital';
 import EquityHouse from '../elements/EquityHouse';
 import EquityIncome from '../elements/EquityIncome';
-import EquityJob from '../elements/EquityJob';
 import EquityRace from '../elements/EquityRace';
 import Test from '../elements/Tableau';
 
@@ -110,7 +109,7 @@ const Equity = ({
                 <p className="m-0">
                 Need to be filled
                   </p>
-                  < EquityJob />
+                  < EquityRace />
               </div>
             </div>
 

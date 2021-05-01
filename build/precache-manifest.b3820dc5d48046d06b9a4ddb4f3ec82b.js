@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "99d4e8ec6a0b75354023a386c7653dac",
+    "revision": "fa8068bf984a71ac9b6f83e139e108a9",
     "url": "/MIMS21-GEAR/index.html"
   },
   {
-    "revision": "f386f4b41c0663ec177a",
+    "revision": "8cb3986396121466c2af",
     "url": "/MIMS21-GEAR/static/css/main.7999ede8.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MIMS21-GEAR/static/js/2.cb66b6d1.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f386f4b41c0663ec177a",
-    "url": "/MIMS21-GEAR/static/js/main.88ee0f5c.chunk.js"
+    "revision": "8cb3986396121466c2af",
+    "url": "/MIMS21-GEAR/static/js/main.f4316f17.chunk.js"
   },
   {
     "revision": "5ac330c7e1fbb8af2224",
@@ -28,16 +28,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MIMS21-GEAR/static/media/Brand.1119abb2.svg"
   },
   {
-    "revision": "a9c3da8f65d82d46ecddc4137252e179",
-    "url": "/MIMS21-GEAR/static/media/Brand.a9c3da8f.png"
+    "revision": "4349baeba1b162c68e3bca0807f2a39d",
+    "url": "/MIMS21-GEAR/static/media/Brand.4349baeb.png"
   },
   {
-    "revision": "1c4b2f91e99816b4fb50a9116a392d56",
-    "url": "/MIMS21-GEAR/static/media/ChargerType.1c4b2f91.png"
+    "revision": "1af3a970b1f91e649d15db394a9ef611",
+    "url": "/MIMS21-GEAR/static/media/ChargerType.1af3a970.png"
   },
   {
-    "revision": "7283d3ab21264b299bc4b9602d58963a",
-    "url": "/MIMS21-GEAR/static/media/DC.7283d3ab.png"
+    "revision": "5549a7efccc2296cc9b5520673f8b7ec",
+    "url": "/MIMS21-GEAR/static/media/DC.5549a7ef.png"
   },
   {
     "revision": "890c43fc3d1b2668ed3b6ccd6891c95e",
@@ -56,12 +56,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/MIMS21-GEAR/static/media/Income.317a1374.svg"
   },
   {
-    "revision": "2a50041ae8f48e1fa6b86945f5644e9a",
-    "url": "/MIMS21-GEAR/static/media/Level1.2a50041a.png"
+    "revision": "61c5c195a2885025c612cc93623edd5b",
+    "url": "/MIMS21-GEAR/static/media/Level1.61c5c195.png"
   },
   {
-    "revision": "324b44abb023627112fafe10be954992",
-    "url": "/MIMS21-GEAR/static/media/Level2.324b44ab.png"
+    "revision": "603fb6dcbb250ff7a74ebbb99d60b3b8",
+    "url": "/MIMS21-GEAR/static/media/Level2.603fb6dc.png"
   },
   {
     "revision": "445ae77b5671f5b41021ca8f6cd93f59",

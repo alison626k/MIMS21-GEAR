@@ -46,7 +46,7 @@ const EVChargerType = ({
 
   const sectionHeader  = {
     title: 'EV Charger Type',
-    paragraph: "There are three levels to charging EVs based on varying speed and power. It starts with the lowest charging at Level 1 and gets faster from there. It's important to understand these charger because they each sets different roles in EV system behaviors."
+    paragraph: "There are three types of EVSE (Electric Vehicle Supply Equipment), or simply known as EV Chargers, based on various charging efficiency. It starts with the lowest charging rate for Level 1 chargers and gets faster from there. It's important to understand the differences of these charger types and their use cases."
   };
 
   return (
@@ -75,14 +75,17 @@ const EVChargerType = ({
                     Level 1 (120V)
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}}>
-                    👀 Any normal socket
+                    👀 Mostly overnight home charging, any normal socket, J1772 charge port
                     <br ></br>
                     <br ></br>
-                    👍 Easy to get access at home. 
+                    👍 Most common in residential garage.
                     <br ></br>
-                    👎 Charge slow. Fully charge in 15+ hours.
+                    👍 No additional infrastructure.
                     <br ></br>
-                    😢 Like on diet for EV, slow energy supply and needs support.
+                    👎 Charge slowly, 8 hours can supply 40 miles of range, 16-40 hours for full range.
+                    <br ></br>
+                    <br ></br>
+                    😢 Like "EVs on diet", slow intake, sometimes low energy in the day and need a boost to make it home.
                     <br ></br>
                     </p>
                 </div>
@@ -106,14 +109,15 @@ const EVChargerType = ({
                     Level 2 (240V)
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}} >
-                  👀  Most Public Charger
+                  👀 Most public chargers, J1772 charge port
                   <br ></br>
                   <br ></br>
-                  👍 Easy to get access at public. 
+                  👍 Easy access in parking lots of public facilities (grocery stores, shopping malls, hospitals), workplaces and curbsides. 
                   <br ></br>
-                  👍 Fully charge in 3-5 hours. 
+                  👍 Charge faster than Level 1, reach vehicle full charge in 10 hours.
                   <br ></br>
-                  🙂 Like a Regular diet for EV, daily usage case.
+                  <br ></br>
+                  🙂 Like "Regular meals and snacks", daily usage, top up a few miles wherever possible during the day.
                   <br ></br>
                     </p>
                 </div>
@@ -136,14 +140,17 @@ const EVChargerType = ({
                   Direct Current (DC) Fast Charger
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}}>
-                  👀  Only Super Charger
+                  👀  Some public chargers, CCS/CHAdeMO/Tesla Super charge port
                   <br ></br>
                   <br ></br>
-                  👍 Charge fast.Fully charge in 40 mins. 
+                  👍 Charge most fast, can reach 80% of range within 30 mins.
                   <br ></br>
-                  👎 Expensive to build. 
+                  👎 Most expensive to install and operate, and least affordable to consumers.
                   <br ></br>
-                  😃 Like a Energy shot for EV, but can not live on it because it will be bad for battery health.
+                  👎 Not all EVs can handle high charging rates of DC Fast Charger.
+                  <br ></br>
+                  <br ></br>
+                  😃 Like "Energy shots", perfect for a quick boost on road trips or after a forgetful night, but had better not live on it.
                   <br ></br>
                     </p>
                 </div>

@@ -124,7 +124,7 @@ const Persona = ({
             <div className="tiles-item reveal-from-bottom" data-reveal-delay="200">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                <div className="mb-1" style={{height:245, marginBottom:-50, marginTop:25}} 
+                <div className="mb-1" style={{height:245, marginBottom:30, marginTop:-50}} 
                   >
                     <Image
                       src={require('./../../assets/images/Brand.png')}
@@ -149,7 +149,7 @@ const Persona = ({
             <div className="tiles-item reveal-from-bottom" data-reveal-delay="400">
               <div className="tiles-item-inner">
                 <div className="features-tiles-item-header">
-                  <div className="mb-1" style={{height:245, marginBottom:-50, marginTop:25}} 
+                  <div className="mb-1" style={{height:245, marginBottom:-46, marginTop:25}} 
                   >
                     <Image
                       src={require('./../../assets/images/ChargerType.png')}

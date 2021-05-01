@@ -67,20 +67,6 @@ const City = ({
       <div className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
-          <h3 className="mt-16 mb-12">
-          Composition of Chargers in LA and SF
-                  </h3>
-                <p className="m-0">
-                  need to be filled
-                  </p>    
-                  <div>
-                  <CityCharger 
-                width={200}
-                height={200} />
-                  </div>
-
-
-<div>
           <h3 className="mt-16 mb-12" style ={{marginTop:"100px"}}>
           The Gaps to Reach Public Chargers Needed in 2025 and 2030 are Very Big
                   </h3>
@@ -90,7 +76,6 @@ const City = ({
           <ChargerGap 
                 width={200}
                 height={200} />
-                </div>
                 </div>
 
 

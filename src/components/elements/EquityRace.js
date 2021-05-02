@@ -10,7 +10,7 @@ class EquityRace extends Component {
     //Function call API
     initViz() {
       const vizUrl =
-        "https://public.tableau.com/views/race_v2_2beremoved/White?:language=en&:display_count=y&publish=yes&:origin=viz_share_link";
+        "https://public.tableau.com/views/race_inequity_final/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link";
       const options = {
         height: "600px",
         width: "100%",

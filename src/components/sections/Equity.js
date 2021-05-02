@@ -73,29 +73,7 @@ const Equity = ({
             <div className="split-item">
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
                 <h3 className="mt-0 mb-12">
-                Number of Charging Station VS Capital
-                  </h3>
-                <p className="m-0">
-                  Need to be filled
-                  </p>
-                  < EquityCapital  style={{paddingLeft:-200}}/>
-              </div>
-
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
-                <h3 className="mt-0 mb-12">
-                Number of Charging Station VS housing types
-                  </h3>
-                <p className="m-0">
-                Need to be filled
-                  </p>
-                  < EquityHouse  />
-              </div>
-            </div>
-
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <h3 className="mt-0 mb-12">
-                Number of Charging Station VS housing types
+                Income
                   </h3>
                 <p className="m-0">
                 Need to be filled
@@ -104,7 +82,7 @@ const Equity = ({
               </div>
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
                 <h3 className="mt-0 mb-12">
-                  Data-driven insights
+                  Race
                   </h3>
                 <p className="m-0">
                 Need to be filled
@@ -113,6 +91,25 @@ const Equity = ({
               </div>
             </div>
 
+            <div>
+          <h3 className=" mb-12" style ={{marginTop:"60px"}}>
+         House types
+                  </h3>
+                <p className="m-0">
+                  need to be filled
+                  </p>    
+                  < EquityHouse  />
+                </div>
+
+            <div>
+          <h3 className=" mb-12" style ={{marginTop:"60px"}}>
+          Number of Charging Station VS Capital
+                  </h3>
+                <p className="m-0">
+                  need to be filled
+                  </p>    
+                  < EquityCapital  style={{paddingLeft:-200}}/>
+                </div>
 
 
           </div>

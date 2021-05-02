@@ -10,10 +10,10 @@ class EquityHouse extends Component {
     //Function call API
     initViz() {
       const vizUrl =
-        "https://public.tableau.com/views/Multi-unitVSchargingstation/multi-unit?:language=en&:display_count=y&publish=yes&:origin=viz_share_link";
+        "https://public.tableau.com/views/multi_unit_final/multi-unit1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link";
       const options = {
         height: "600px",
-        width: "600px",
+        width: "100%",
         hideTabs: true,
         hideToolbar: true,
         backgroundColor: '#151719'

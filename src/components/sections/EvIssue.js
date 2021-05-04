@@ -12,6 +12,8 @@ import IncomeLevelCharger from '../elements/IncomeLevelCharger';
 import Waiting from '../elements/Waiting';
 import { InView } from 'react-intersection-observer';
 import { useInView } from 'react-intersection-observer';
+import EquityIncome from '../elements/EquityIncome';
+
 
 
 
@@ -124,9 +126,10 @@ const EvIssue = ({
                 )}
                 data-reveal-container=".split-item">
                 <div style={{
-                    height: 360
+                    height: 360,
+                    marginBottom:60
                   }}>
-                <IncomeLevelCharger />
+                <EquityIncome />
                 </div>
               </div>
             </div>

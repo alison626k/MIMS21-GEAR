@@ -70,26 +70,21 @@ const Equity = ({
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={splitClasses}>
 
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <h3 className="mt-0 mb-12">
-                Income
-                  </h3>
-                <p className="m-0">
-                Need to be filled
-                  </p>
-                  < EquityIncome  />
-              </div>
+            <div className="split-item"  >
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
                 <h3 className="mt-0 mb-12">
-                  Race
+                Race
                   </h3>
                 <p className="m-0">
                 Need to be filled
                   </p>
+              </div>
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
                   < EquityRace />
               </div>
             </div>
+
+
 
             <div>
           <h3 className=" mb-12" style ={{marginTop:"60px"}}>

@@ -90,17 +90,6 @@ const City = ({
                 height={500} />
                 </div>
 
-                <div>
-          <h3 className="mt-16 mb-12" style ={{marginTop:"100px"}}>
-          Effective Policies can Help Meeting Charging Needs Much Easier- SF
-                  </h3>
-                <p className="m-0">
-                  need to be filled
-                  </p>    
-          <SFRemain
-                width={200}
-                height={200} />
-                </div>
 
                 </div>
 

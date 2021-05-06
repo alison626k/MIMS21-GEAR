@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MIMS21-GEAR/static/css/main.f2f7d80f.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.40120e93.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.40120e93.chunk.js.map",
+    "main.js": "/MIMS21-GEAR/static/js/main.7df86a9d.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.7df86a9d.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
     "static/js/2.44f83787.chunk.js": "/MIMS21-GEAR/static/js/2.44f83787.chunk.js",
     "static/js/2.44f83787.chunk.js.map": "/MIMS21-GEAR/static/js/2.44f83787.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.7a3ef89289666ad6f12325a4495f931e.js": "/MIMS21-GEAR/precache-manifest.7a3ef89289666ad6f12325a4495f931e.js",
+    "precache-manifest.28d72b205d5e3518d300e88cbc4fae60.js": "/MIMS21-GEAR/precache-manifest.28d72b205d5e3518d300e88cbc4fae60.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
     "static/css/main.f2f7d80f.chunk.css.map": "/MIMS21-GEAR/static/css/main.f2f7d80f.chunk.css.map",
     "static/js/2.44f83787.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.44f83787.chunk.js.LICENSE.txt",
@@ -41,6 +41,6 @@
     "static/js/runtime-main.7fa28056.js",
     "static/js/2.44f83787.chunk.js",
     "static/css/main.f2f7d80f.chunk.css",
-    "static/js/main.40120e93.chunk.js"
+    "static/js/main.7df86a9d.chunk.js"
   ]
 }

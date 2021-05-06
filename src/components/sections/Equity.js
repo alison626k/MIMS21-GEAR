@@ -7,8 +7,7 @@ import EquityCapital from '../elements/EquityCapital';
 import EquityHouse from '../elements/EquityHouse';
 import EquityIncome from '../elements/EquityIncome';
 import EquityRace from '../elements/EquityRace';
-import Test from '../elements/Tableau';
-
+import Disadvantage from '../elements/Disadvantage';
 
 const propTypes = {
   ...SectionSplitProps.types
@@ -84,7 +83,19 @@ const Equity = ({
               </div>
             </div>
 
-
+            <div className="split-item"  >
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
+                <h3 className="mt-0 mb-12">
+                Race
+                  </h3>
+                <p className="m-0">
+                Need to be filled
+                  </p>
+              </div>
+              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
+                  < Disadvantage />
+              </div>
+            </div>
 
             <div>
           <h3 className=" mb-12" style ={{marginTop:"60px"}}>

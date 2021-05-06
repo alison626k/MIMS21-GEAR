@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/MIMS21-GEAR/static/css/main.7999ede8.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.b6aa9fce.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.b6aa9fce.chunk.js.map",
+    "main.js": "/MIMS21-GEAR/static/js/main.2cc8d1d4.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.2cc8d1d4.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
-    "static/js/2.e4892a6b.chunk.js": "/MIMS21-GEAR/static/js/2.e4892a6b.chunk.js",
-    "static/js/2.e4892a6b.chunk.js.map": "/MIMS21-GEAR/static/js/2.e4892a6b.chunk.js.map",
+    "static/js/2.0eceeb9c.chunk.js": "/MIMS21-GEAR/static/js/2.0eceeb9c.chunk.js",
+    "static/js/2.0eceeb9c.chunk.js.map": "/MIMS21-GEAR/static/js/2.0eceeb9c.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.1020a079a34ba3cde6da37820eebd34c.js": "/MIMS21-GEAR/precache-manifest.1020a079a34ba3cde6da37820eebd34c.js",
+    "precache-manifest.49b1defd9565417f6556ef623e0d6edc.js": "/MIMS21-GEAR/precache-manifest.49b1defd9565417f6556ef623e0d6edc.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
     "static/css/main.7999ede8.chunk.css.map": "/MIMS21-GEAR/static/css/main.7999ede8.chunk.css.map",
-    "static/js/2.e4892a6b.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.e4892a6b.chunk.js.LICENSE.txt",
+    "static/js/2.0eceeb9c.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.0eceeb9c.chunk.js.LICENSE.txt",
     "static/media/Brand.1119abb2.svg": "/MIMS21-GEAR/static/media/Brand.1119abb2.svg",
     "static/media/Brand.png": "/MIMS21-GEAR/static/media/Brand.4349baeb.png",
     "static/media/ChargerType.png": "/MIMS21-GEAR/static/media/ChargerType.1af3a970.png",
@@ -24,6 +24,7 @@
     "static/media/Level2.png": "/MIMS21-GEAR/static/media/Level2.603fb6dc.png",
     "static/media/Logo.png": "/MIMS21-GEAR/static/media/Logo.445ae77b.png",
     "static/media/Moneybag.b236a860.svg": "/MIMS21-GEAR/static/media/Moneybag.b236a860.svg",
+    "static/media/ReduceUsage.png": "/MIMS21-GEAR/static/media/ReduceUsage.84c04ed4.png",
     "static/media/style.scss": "/MIMS21-GEAR/static/media/illustration-section-02.63d0555d.svg",
     "static/media/ezgif.png": "/MIMS21-GEAR/static/media/ezgif.042ca897.png",
     "static/media/feature-tile-icon-01.svg": "/MIMS21-GEAR/static/media/feature-tile-icon-01.0f9928d7.svg",
@@ -37,8 +38,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.7fa28056.js",
-    "static/js/2.e4892a6b.chunk.js",
+    "static/js/2.0eceeb9c.chunk.js",
     "static/css/main.7999ede8.chunk.css",
-    "static/js/main.b6aa9fce.chunk.js"
+    "static/js/main.2cc8d1d4.chunk.js"
   ]
 }

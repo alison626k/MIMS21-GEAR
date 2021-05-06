@@ -12,8 +12,9 @@ import EVChargerType from '../components/sections/EVChargerType';
 import Equity from '../components/sections/Equity';
 import City from '../components/sections/City';
 import Future from '../components/sections/Future';
-import IssueAndScale from '../components/sections/IssueAndScale';
-
+import StoryCity from '../components/sections/StoryCity';
+import StoryIssue from '../components/sections/StoryIssue';
+import StoryEquity from '../components/sections/StoryEquity';
 
 const Home = () => {
 
@@ -23,9 +24,11 @@ const Home = () => {
       <BackgroundInfo />
       <EVChargerType />
       <Persona />
+      <StoryIssue/>
       <EvIssue/>
-      <IssueAndScale/>
+      <StoryEquity/>
       <Equity/>
+      <StoryCity/>
       <City/>
       <Future />
     </>

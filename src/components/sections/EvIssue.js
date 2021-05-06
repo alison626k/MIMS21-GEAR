@@ -127,7 +127,7 @@ const EvIssue = ({
                 data-reveal-container=".split-item">
                 <div style={{
                     height: 360,
-                    marginBottom:60
+                    marginBottom:20, marginTop:50
                   }}>
                 <EquityIncome />
                 </div>
@@ -151,10 +151,14 @@ const EvIssue = ({
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
-                      <div style={{
-                    height: 360
-                  }}>
-                    <ChargerConnivence />
+                <div style={{height:360, marginBottom:-46, marginTop:150}}
+                  >
+                      <Image
+                      src={require('./../../assets/images/ReduceUsage.png')}
+                      alt="ReduceUsage"
+                      width={400}
+                      height={600}
+                      />
                 </div>
               </div>
             </div>

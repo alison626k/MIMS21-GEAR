@@ -12,7 +12,7 @@ class EquityRace extends Component {
       const vizUrl =
         "https://public.tableau.com/views/race_inequity_final/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link";
       const options = {
-        height: "600px",
+        height: "500px",
         width: "100%",
         hideTabs: true,
         hideToolbar: true,

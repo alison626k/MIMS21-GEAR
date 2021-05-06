@@ -54,14 +54,17 @@ const StoryCity = ({
       className={outerClasses}
       
     >
-      <div className="container" style ={{paddingTop: '10vh',paddingBottom: '10vh'}}>
+      <div className="container" style ={{paddingTop: '3vh',paddingBottom: '5vh'}}>
         <div className={innerClasses} >
           <div className={tilesClasses} >
             <div className="reveal-from-bottom"  >
                 <div >
-                  <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '30pt' ,lineHeight:1.5}}>
-                  Storytelling for City
+                  <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '40pt' ,lineHeight:1.5}}>
+                  Are there any solutions?
                   </h3>
+                  <p className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '20pt' ,lineHeight:1.5}}>
+                  Things seem not in a good shape...But let's take Los Angelas and San Francisco as comparison. There could be a solution through policy.
+                  </p>
               </div>
             </div>
           </div>

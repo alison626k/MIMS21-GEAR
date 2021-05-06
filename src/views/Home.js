@@ -15,6 +15,9 @@ import Future from '../components/sections/Future';
 import StoryCity from '../components/sections/StoryCity';
 import StoryIssue from '../components/sections/StoryIssue';
 import StoryEquity from '../components/sections/StoryEquity';
+import NLPIssue from '../components/sections/NLPIssue';
+import StoryFuture from '../components/sections/StoryFuture';
+
 
 const Home = () => {
 
@@ -26,10 +29,12 @@ const Home = () => {
       <Persona />
       <StoryIssue/>
       <EvIssue/>
+      <NLPIssue/>
       <StoryEquity/>
       <Equity/>
       <StoryCity/>
       <City/>
+      <StoryFuture/>
       <Future />
     </>
   );

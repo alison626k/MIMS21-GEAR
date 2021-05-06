@@ -39,8 +39,12 @@ const Footer = ({
             'site-footer-inner',
             topDivider && 'has-top-divider'
           )}
-          style={{ fontSize: "12px"}}>
-            <p className="invert-color">University of California, Berkeley, School of Information, MIMS 2021. 
+          style={{ fontSize: "12px", paddingTop: '3vh',paddingBottom: '1vh'}}>
+            
+            <p className="invert-color">
+            <span style={{ fontSize: "16px"}} > <a href="https://cruip.com">Click here for Detailed Reprt and Referrence Link</a></span>
+            <br></br>
+            University of California, Berkeley, School of Information, MIMS 2021. 
             <br></br>
             Created by: Wenqi Luo, Alison Kuo, Yin Qui, Coco Wang 
             <br></br>

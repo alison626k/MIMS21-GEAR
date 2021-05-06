@@ -75,7 +75,10 @@ const Equity = ({
                 Race
                   </h3>
                 <p className="m-0">
-                Need to be filled
+                In California, 34% census tracts are equipped with at least one public charge spot, and there's a disparity in charger accessibility across different racial communities. 
+                38.8% of white-dominant tracts (have more than 50% of its population as white) have a charger, which is the highest among all 4 grouped racial groups, 
+                including tracts without a majority race. By contrast,
+                 black and non-white hispanic communities have the lowest public charger access. There's definitely room for more equitable distribution of chargers among all race groups.
                   </p>
               </div>
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
@@ -86,10 +89,14 @@ const Equity = ({
             <div className="split-item"  >
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
                 <h3 className="mt-0 mb-12">
-                Race
+                Disadvantage
                   </h3>
                 <p className="m-0">
-                Need to be filled
+                California Office of Environmental Health Hazard Assessment used CalEnviroScreen Score to holistically measure census community’s vulnerability to pollution effects, 
+                by taking account environmental, health and socioeconomic factors, including poverty, employment and race. 
+                Government claimed to specifically target those communities for investment to reduce pollution, while improving their health and economic outcomes. 
+                By grouping all communities by the quantile of CalEnviroScreen, the graph shows that currently disadvantaged communities (Q4) have fewest level 2 charger and DC fast charger per capita. 
+                To facilitate a more equitable EV transition, more investments in charging infrastructure are indeed needed for people in disadvantaged communities, who suffer most from air pollution.
                   </p>
               </div>
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
@@ -102,7 +109,12 @@ const Equity = ({
          House types
                   </h3>
                 <p className="m-0">
-                  need to be filled
+                EV drivers’ need for public chargers could be heavily determined by their housing type. 
+                People living in multi-unit housing are less able to install home chargers and thus rely more on public chargers (citation). 
+                Ideally, regions with more multi-unit dwelling should have greater public charging deployment; 
+                this trend is observed in some frontrunner countries of EV uptake such as the Netherlands (Citation). However,  California has shows a different story here.  
+                Counties with highest rate of multi-unit dwelling residency (greater than 30%), as highlighted in green on the left, 
+                supposedly need most chargers per million population. However, they didn’t show any advantage of charger access than other counties with a lower multi-unit percentage.
                   </p>    
                   < EquityHouse  />
                 </div>
@@ -112,7 +124,11 @@ const Equity = ({
           Number of Charging Station VS Capital
                   </h3>
                 <p className="m-0">
-                  need to be filled
+                EV drivers’ need for public chargers could be heavily determined by their housing type. 
+                People living in multi-unit housing are less able to install home chargers and thus rely more on public chargers (citation). 
+                Ideally, regions with more multi-unit dwelling should have greater public charging deployment; this trend is observed in some frontrunner countries of EV uptake such as the Netherlands (Citation). 
+                However,  California has shows a different story here.  Counties with highest rate of multi-unit dwelling residency (greater than 30%), as highlighted in green on the left, 
+                supposedly need most chargers per million population. However, they didn’t show any advantage of charger access than other counties with a lower multi-unit percentage.
                   </p>    
                   < EquityCapital  style={{paddingLeft:-200}}/>
                 </div>

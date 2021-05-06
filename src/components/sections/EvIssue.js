@@ -89,8 +89,8 @@ const EvIssue = ({
                 Often Wait for a Public Charger
                   </h3>
                 <p className="m-0">
-                (need to change)Drivers respond that no matter how long miles do they drive, they experience half of the time they have to wait for a public charger. Even after driving over 10 miles, the situation remains. 
-                Waiting for a public charger is an issue that makes drivers take charging EV inconvenience.
+                Waiting for a public charger in a long line makes EV driver inconvenient and bothers them when they are in a hurry. 34% of drivers respond that in the past month, they have to wait for a public charger over half the time . 
+                Only 10.23% of drivers never ran into the waiting experience. This indicates that waiting for a public charger is a common problem and it happens frequently.
                   </p>
               </div>
               <div className={
@@ -115,8 +115,8 @@ const EvIssue = ({
                 Higher Income Area Gets More Public Chargers
                   </h3>
                 <p className="m-0">
-                (need to change)Rumors say the high-income level living area has more public chargers. Statics support the hypothesis that low-income level gets a higher percentage that they do not see any charging station, but the higher income level sees more charger stations nearby.
-                 This causes inconvenience to the low-income group.
+                Statics supports that the low-income level gets a higher percentage of not seeing any charging station, 
+                while the higher income level sees more charger stations nearby. This causes inconvenience to the low-income group to get access to public chargers.
                   </p>
               </div>
               <div className={
@@ -136,13 +136,15 @@ const EvIssue = ({
 
             <div className="split-item" inView={inView}>
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" ref={ref}>
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
+                <div className="text-xxs text-color-primary fw-600 tt-u mb-8" style={{ marginTop:140}}>
                   </div>
                 <h3 className="mt-0 mb-12">
-                Charging Connivence {inView}.
+                Charging Connivence
                   </h3>
                 <p className="m-0">
-                  Need to be filled
+                Every 8 out of 10 EV drivers expressed they have intentionally reduced EV usage due to concerns about charging station availability. 
+                Alternatively, they would take the trip using a different vehicle or travel mode. Such charging availability concerns are more than real, 
+                and are great hurdles to normal EV utilization. 
                   </p>
               </div>
               <div className={
@@ -151,7 +153,7 @@ const EvIssue = ({
                   imageFill && 'split-item-image-fill'
                 )}
                 data-reveal-container=".split-item">
-                <div style={{height:360, marginBottom:-46, marginTop:150}}
+                <div style={{height:360, marginBottom:-46, marginTop:140}}
                   >
                       <Image
                       src={require('./../../assets/images/ReduceUsage.png')}

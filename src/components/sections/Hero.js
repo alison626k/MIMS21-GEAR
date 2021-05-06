@@ -71,7 +71,7 @@ const Hero = ({
               <span className="text-color-secondary" >G</span>aps
               <span className="text-color-secondary"> E</span>xplorer for
               <span className="text-color-secondary"> A</span>ccessibility and
-              <span className="text-color-secondary"> R</span>esilience of California Electric Vehicles(EV) Charging Infrastructure
+              <span className="text-color-secondary"> R</span>eadiness: California Electric Vehicle Charging Infrastructure
             </h1>
             <div className="reveal-from-bottom" >
           <Image

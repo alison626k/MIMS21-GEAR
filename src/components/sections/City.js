@@ -7,7 +7,7 @@ import Test from '../elements/Tableau';
 import CityCharger from '../elements/CityCharger';
 import ChargerGap from '../elements/ChargerGap';
 import LARemain from '../elements/LARemain';
-import SFRemain from '../elements/SFRemain';
+import CityMap from '../elements/CityMap';
 
 const propTypes = {
   ...SectionSplitProps.types
@@ -80,7 +80,7 @@ const City = ({
 
                 <div>
           <h3 className=" mb-12" style ={{marginTop:"-150px"}}>
-          Effective Policies can Help Meeting Charging Needs Much Easier- LA
+          Effective Policies can Help Meeting Charging Needs Much Easier
                   </h3>
                 <p className="m-0">
                   need to be filled
@@ -91,11 +91,21 @@ const City = ({
                 </div>
 
 
+                <div style ={{marginTop:"50px",marginBottom:"0px"}}>
+          <h3 className=" mb-12" >
+          City Map
+                  </h3>
+                <p className="m-0">
+                  need to be filled
+                  </p>    
+          <CityMap
+                width={200}
+                height={500} />
                 </div>
 
+
+                </div>
                 <div>
-
-
       </div>
     </section>
   );

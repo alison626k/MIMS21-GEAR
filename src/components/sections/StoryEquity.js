@@ -54,14 +54,17 @@ const StoryEquity = ({
       className={outerClasses}
       
     >
-      <div className="container" style ={{paddingTop: '10vh',paddingBottom: '10vh'}}>
+      <div className="container" style ={{paddingTop: '3vh',paddingBottom: '5vh'}}>
         <div className={innerClasses} >
           <div className={tilesClasses} >
             <div className="reveal-from-bottom"  >
                 <div >
-                  <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '30pt' ,lineHeight:1.5}}>
-                  EV drivers currently facing in charger issues. Now looking at the California scale, the whole picture become clear. The charger equity is imbalanced.
+                  <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '40pt' ,lineHeight:1.5}}>
+                  That's not the only problem...
                   </h3>
+                  <p className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '20pt' ,lineHeight:1.5}}>
+                  Besides EV drivers' struggling issue, if we take a look at the whole California, we can see there's more Gap!
+                  </p>
               </div>
             </div>
           </div>

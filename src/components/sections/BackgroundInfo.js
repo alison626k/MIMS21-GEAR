@@ -72,16 +72,13 @@ const BackgroundInfo = ({
               <div className="tiles-item-inner" 
               style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
                 <div className="testimonial-item-content" >
-                  <p className="text-sm mb-0" style ={{textAlign:'center'}}>
-                  What will happen in the next 10 years for the Electric Vehicles in California?
+                  <p className="text-s mb-0" style ={{textAlign:'center'}}>
+                  Electric Vehicles are trending in recent years not only because of their cool look, but also the environmental benefits and lower operational costs. 
+                  California is leading the transition to electrifying its vehicles to fight against climate change and decarbonize the economy.
                   <br></br>
                   <br></br>
-                  California has set the goal of having 
-                  <br></br>
-                  <span className="text-color-error"style={{fontSize: '30pt', fontWeight:"bold",lineHeight:1 }}> 5 million Zero-Emission Vehicles </span>
-                  <br></br>
-                  on the roads by 2030 and 250,000 electric vehicle charging stations by 2025. 
-                  The new Executive Order requires all new car sales in California are required to be 100% zero emission by 2035.
+                   The government set <span className="text-color-error"style={{fontSize: '18pt', fontWeight:"bold",lineHeight:1 }}>the goal of 100% Zero-Emission Vehicle sales by 2035,  </span>
+                   meaning there needs to be 1.5 million chargers to support the 8 million ZEVs on the road. 
                   </p>
                 </div>
                 <div className=" text-xs mt-32 mb-0 ">
@@ -100,9 +97,11 @@ const BackgroundInfo = ({
               <div className="tiles-item-inner" 
               style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
                 <div className="testimonial-item-content">
-                <p className="text-sm mb-0" style ={{textAlign:'center'}}>
-                Therefore, 1.5 million chargers are needed to support nearly 8 million Zero-Emission Vehicles required under the new executive order. 
-                The Electric Vehicles(EVs), including plug-in hybrid vehicles and battery electric vehicles, stands over 80% in the Zero-Emission Vehicles. 
+                <p className="text-s mb-0" style ={{textAlign:'center'}}>
+                Today, <span className="text-color-error"style={{fontSize: '18pt', fontWeight:"bold",lineHeight:1 }}> only 2.2 % of cars on the road in California are electric, </span>
+                 and charging infrastructure are not ready to support the mass adoption of EVs.
+                 Many drivers are concerned about the availability of chargers before they switch to electric.
+
                   </p>
                 </div>
                 <div className="text-xs mt-32 mb-0 ">
@@ -121,14 +120,8 @@ const BackgroundInfo = ({
               <div className="tiles-item-inner" 
               style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
                 <div className="testimonial-item-content">
-                <p className="text-sm mb-0" style ={{textAlign:'center'}}>
-                Now,California government is pushing on making EV more accessible for the general public. 
-                According consumer surveys, after vehicle costs and battery range, 
-                they think 
-                <br></br>
-                  <span className="text-color-error"style={{fontSize: '30pt', fontWeight:"bold",lineHeight:1 }}> the availability of charging infrastructure is the third barrier  </span>
-                  <br></br>
-                to EV penetration.
+                <p className="text-s mb-0" style ={{textAlign:'center'}}>
+                To accelerate the EV transition, how we understand the gaps in the accessibility of EV charging infrastructure is important.
                   </p>
                 </div>
                 <div className="text-xs mt-32 mb-0 ">

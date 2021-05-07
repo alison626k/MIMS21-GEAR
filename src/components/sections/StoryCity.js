@@ -60,10 +60,10 @@ const StoryCity = ({
             <div className="reveal-from-bottom"  >
                 <div >
                   <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '40pt' ,lineHeight:1.5}}>
-                  Are there any solutions?
+                  How big is the gap?
                   </h3>
                   <p className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '20pt' ,lineHeight:1.5}}>
-                  Things seem not in a good shape...But let's take Los Angelas and San Francisco as comparison. There could be a solution through policy.
+                  Let's take a look at the examples of Los Angeles and San Francisco and see how policies can come in handy.
                   </p>
               </div>
             </div>

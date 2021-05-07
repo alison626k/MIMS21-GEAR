@@ -106,7 +106,7 @@ const EVChargerType = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8" style={{marginTop:15}}>
-                    Level 2 (240V)
+                  Level 2 (208V/240V)
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}} >
                   👀 Most public chargers, J1772 charge port
@@ -114,7 +114,7 @@ const EVChargerType = ({
                   <br ></br>
                   👍 Easy access in parking lots of public facilities (grocery stores, shopping malls, hospitals), workplaces and curbsides. 
                   <br ></br>
-                  👍 Charge faster than Level 1, reach vehicle full charge in 10 hours.
+                  👍 Reasonable charge rate and price tag, reach full range in 10 hours 
                   <br ></br>
                   <br ></br>
                   🙂 Like "Regular meals and snacks", daily usage, top up a few miles wherever possible during the day.
@@ -137,17 +137,18 @@ const EVChargerType = ({
                 </div>
                 <div className="features-tiles-item-content">
                   <h4 className="mt-0 mb-8" style={{marginTop:15}}>
-                  Direct Current (DC) Fast Charger
+                  DC Fast Charge (208V/480V)
                     </h4>
                   <p className="m-0 text-sm" style ={{textAlign:'left'}}>
                   👀  Some public chargers, CCS/CHAdeMO/Tesla Super charge port
                   <br ></br>
                   <br ></br>
-                  👍 Charge most fast, can reach 80% of range within 30 mins.
+                  👍 Charge very fast, reach 80% of range within 30 mins
                   <br ></br>
-                  👎 Most expensive to install and operate, and least affordable to consumers.
+                  👎 Most expensive to build and least affordable to use
                   <br ></br>
-                  👎 Not all EVs can handle high charging rates of DC Fast Charger.
+                  👎 Not all EVs can handle high charging rates
+
                   <br ></br>
                   <br ></br>
                   😃 Like "Energy shots", perfect for a quick boost on road trips or after a forgetful night, but had better not live on it.

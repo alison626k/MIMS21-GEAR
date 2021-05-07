@@ -112,7 +112,7 @@ const EvIssue = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
                   </div>
                 <h3 className="mt-0 mb-12">
-                Higher Income Area Gets More Public Chargers
+                Higher Income Areas Get More Public Chargers
                   </h3>
                 <p className="m-0">
                 Statics supports that the low-income level gets a higher percentage of not seeing any charging station, 
@@ -139,12 +139,12 @@ const EvIssue = ({
                 <div className="text-xxs text-color-primary fw-600 tt-u mb-8" style={{ marginTop:140}}>
                   </div>
                 <h3 className="mt-0 mb-12">
-                Charging Connivence
+                Charging Convenience
                   </h3>
                 <p className="m-0">
                 Every 8 out of 10 EV drivers expressed they have intentionally reduced EV usage due to concerns about charging station availability. 
-                Alternatively, they would take the trip using a different vehicle or travel mode. Such charging availability concerns are more than real, 
-                and are great hurdles to normal EV utilization. 
+                Alternatively, they would take the trip using a different vehicle or travel mode. 
+                Such charging availability concerns are more than real, and are great hurdles to normal EV utilization. 
                   </p>
               </div>
               <div className={

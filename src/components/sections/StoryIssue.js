@@ -59,11 +59,11 @@ const StoryIssue = ({
           <div className={tilesClasses} >
             <div className="reveal-from-bottom"  >
                 <div >
-                  <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '40pt' ,lineHeight:1.5}}>
-                  Why should we care?
+                  <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '38pt' ,lineHeight:1.5}}>
+                  What issues are people facing in charging?
                   </h3>
                   <p className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '20pt' ,lineHeight:1.5}}>
-                  We have a picture about EV drivers' persona and the California goal for EV. Let's listen to the main issues that EV driver are facing. 
+                  We have a picture about EV drivers' persona. Let's listen to the users and see what they say in the survey and online reviews.
                   </p>
               </div>
             </div>

@@ -60,10 +60,10 @@ const StoryFuture = ({
             <div className="reveal-from-bottom"  >
                 <div >
                   <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '40pt' ,lineHeight:1.5}}>
-                  We can make things different!
+                  To conclude...
                   </h3>
                   <p className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '20pt' ,lineHeight:1.5}}>
-                  Policy could really help narrow down the EV charger gap. We can involved to make EV accessibility happens!
+                  We've seen many gaps from different angles, but they can be addressed by thoughtful planning and policies. 
                   </p>
               </div>
             </div>

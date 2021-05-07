@@ -42,13 +42,13 @@ const Footer = ({
           style={{ fontSize: "12px", paddingTop: '3vh',paddingBottom: '1vh'}}>
             
             <p className="invert-color">
-            <span style={{ fontSize: "16px"}} > <a href="https://cruip.com">Click here for Detailed Reprt and Referrence Link</a></span>
+            <span style={{ fontSize: "16px"}} > Click <a href="https://docs.google.com/document/d/1D5LkFHCSmNqnWkh4tKd9qm4cag6BOq-Eh1SBv0iYL_4/edit?usp=sharing"> Here </a>for Detailed Report and Referrence Link</span>
             <br></br>
             University of California, Berkeley, School of Information, MIMS 2021. 
             <br></br>
-            Created by: Wenqi Luo, Alison Kuo, Yin Qui, Coco Wang 
+            Created by: Wenqi Luo, Alison Kuo, Yin Qiu, Coco Wang 
             <br></br>
-            All right reserved.</p>
+            All rights reserved.</p>
             </div>
           </div>
     </footer>

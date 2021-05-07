@@ -67,7 +67,7 @@ const NLPIssue = ({
           <h3 className="mt-16 mb-12" >
           Charging Station Reviews
                   </h3>
-                  <div style={{height:360, marginBottom:200, marginTop:20}}
+                  <div style={{height:360, marginBottom:200, marginTop:20}} className="reveal-from-bottom"
                   >
                       <Image
                       src={require('./../../assets/images/NLP.png')}
@@ -76,7 +76,7 @@ const NLPIssue = ({
                       height={600}
                       />
                  </div>     
-                <p className="m-0" style ={{lineHeight:1.5}}>
+                <p className="m-0" style ={{lineHeight:1.5}}  className="reveal-from-bottom">
                 ・57% of charging station reviews showing electric vehicles being ICEd.(EV spots taken by gas car)
                 <br></br>
                 <br></br>

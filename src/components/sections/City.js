@@ -55,8 +55,8 @@ const City = ({
   );
 
   const sectionHeader = {
-    title: 'City Compaire',
-    paragraph: ' Need to be filled'
+    title: 'Exploring Gaps in Scale',
+    paragraph: ''
   };
 
   return (
@@ -65,25 +65,29 @@ const City = ({
       className={outerClasses}
     >
       <div className="container">
-        <div className={innerClasses}>
+        <div className={innerClasses} >
           <SectionHeader data={sectionHeader} className="center-content" />
-          <h3 className="mt-16 mb-12" style ={{marginTop:"100px"}}>
-          The Gaps to Reach Public Chargers Needed in 2025 and 2030 are Very Big
+          <h3 className="mt-16 mb-12" style ={{marginTop:"-70px"} } className="reveal-from-bottom">
+          Gaps are big to have enough chargers for 2025 and 2030
                   </h3>
-                <p className="m-0">
-                  need to be filled
+                <p className="m-0" className="reveal-from-bottom">
+                Looking at the two cities, the gaps for LA is even larger, putting more pressure on the city authority to close the gaps faster.
                   
                   </p>    
-          <ChargerGap  />
+          <ChargerGap  className="reveal-from-bottom"/>
                 </div>
 
 
-                <div>
+                <div className="reveal-from-bottom">
           <h3 className=" mb-12" style ={{marginTop:"-150px"}}>
-          Effective Policies can Help Meeting Charging Needs Much Easier
+          Transport policies making the charging infrastructure goals more attainable
                   </h3>
-                <p className="m-0">
-                  need to be filled
+                <p className="m-0" >
+                How can we close the gaps faster? There are two ways of thinking. First, accelerate the pace. Second, lower the bar (goal).
+
+The government is sending political signals and proposing $1 billion budget, and the industry is also making promising progress. The first box is checked.
+
+There is actually room to use various policies to push down the high demand of chargers (the base case demand is the length of the whole bar, the orange section is what is remaining to build with policies implemented).
                   </p>    
           <LARemain
                 width={200}
@@ -91,12 +95,12 @@ const City = ({
                 </div>
 
 
-                <div style ={{marginTop:"50px",marginBottom:"0px"}}>
+                <div style ={{marginTop:"50px",marginBottom:"0px"}} className="reveal-from-bottom">
           <h3 className=" mb-12" >
-          City Map
+          Mapping the gaps in the base case and the policy intervention case
                   </h3>
                 <p className="m-0">
-                  need to be filled
+                Let's take a look where the gaps are compared to the charger demand in 2030. When we have policy interventions implemented, the gaps no longer seem that big.
                   </p>    
           <CityMap
                 width={200}

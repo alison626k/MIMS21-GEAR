@@ -56,7 +56,7 @@ const Equity = ({
 
   const sectionHeader = {
     title: 'EV Charger Equity Gap',
-    paragraph: ' Need to be filled'
+    paragraph: ''
   };
 
   return (
@@ -69,19 +69,19 @@ const Equity = ({
           <SectionHeader data={sectionHeader} className="center-content" />
           <div className={splitClasses}>
 
-            <div className="split-item"  >
+            <div className="split-item" style={{marginTop:'-100px'}} >
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
                 <h3 className="mt-0 mb-12">
-                Race
+                Race Dimension
                   </h3>
                 <p className="m-0">
-                In California, 34% census tracts are equipped with at least one public charge spot, and there's a disparity in charger accessibility across different racial communities. 
-                38.8% of white-dominant tracts (have more than 50% of its population as white) have a charger, which is the highest among all 4 grouped racial groups, 
-                including tracts without a majority race. By contrast,
-                 black and non-white hispanic communities have the lowest public charger access. There's definitely room for more equitable distribution of chargers among all race groups.
+                In California, only 34% census tracts are equipped with a public charge spot, and there's a disparity in charger accessibility across different racial communities. 
+                38.8% of white-dominant tracts (where white takes more than 50% of the total population) have a charger, which is the highest among all 4 grouped racial groups, 
+                including tracts without a majority race. By contrast, black and hispanic dominant communities have the lowest public charger access. 
+                There's  room for more equitable distribution of chargers among all race groups.
                   </p>
               </div>
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
+              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item" >
                   < EquityRace />
               </div>
             </div>
@@ -89,46 +89,41 @@ const Equity = ({
             <div className="split-item"  >
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
                 <h3 className="mt-0 mb-12">
-                Disadvantage
+                Disadvantaged Communities vs Other Communities
                   </h3>
                 <p className="m-0">
                 California Office of Environmental Health Hazard Assessment used CalEnviroScreen Score to holistically measure census community’s vulnerability to pollution effects, 
-                by taking account environmental, health and socioeconomic factors, including poverty, employment and race. 
-                Government claimed to specifically target those communities for investment to reduce pollution, while improving their health and economic outcomes. 
-                By grouping all communities by the quantile of CalEnviroScreen, the graph shows that currently disadvantaged communities (Q4) have fewest level 2 charger and DC fast charger per capita. 
-                To facilitate a more equitable EV transition, more investments in charging infrastructure are indeed needed for people in disadvantaged communities, who suffer most from air pollution.
+                by considering environmental, health and socioeconomic factors. The graph shows that disadvantaged communities (Q4) have fewest level 2 charger and DC fast charger per capita. 
+                More investments in charging infrastructure are needed for disadvantaged communities, who suffer most from pollution. 
                   </p>
               </div>
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
+              <div className="split-item-content center-content-mobile reveal-from-right" data-reveal-container=".split-item" >
                   < Disadvantage />
               </div>
             </div>
 
-            <div>
+            <div className="reveal-from-bottom">
           <h3 className=" mb-12" style ={{marginTop:"60px"}}>
-         House types
+         Housing Types 
                   </h3>
                 <p className="m-0">
-                EV drivers’ need for public chargers could be heavily determined by their housing type. 
-                People living in multi-unit housing are less able to install home chargers and thus rely more on public chargers (citation). 
-                Ideally, regions with more multi-unit dwelling should have greater public charging deployment; 
-                this trend is observed in some frontrunner countries of EV uptake such as the Netherlands (Citation). However,  California has shows a different story here.  
-                Counties with highest rate of multi-unit dwelling residency (greater than 30%), as highlighted in green on the left, 
-                supposedly need most chargers per million population. However, they didn’t show any advantage of charger access than other counties with a lower multi-unit percentage.
+                EV drivers’ need for public chargers could be heavily determined by housing type. 
+                Multi-unit residents are less able to install home chargers and thus rely more on public chargers. 
+                Ideally, regions with more multi-unit dwelling residents should have greater public charging deployment; this trend is observed in some frontrunner countries of EV uptake such as the Netherlands. However, California shows a different story here. Counties that are highest in multi-unit dwelling residency, 
+                as highlighted in green on the left, didn’t show any advantage of charger access than other counties with lower multi-unit residency.
                   </p>    
                   < EquityHouse  />
                 </div>
 
-            <div>
+            <div className="reveal-from-bottom">
           <h3 className=" mb-12" style ={{marginTop:"60px"}}>
-          Number of Charging Station VS Capital
+          Numbers of Charging Station VS Capital
                   </h3>
                 <p className="m-0">
-                EV drivers’ need for public chargers could be heavily determined by their housing type. 
-                People living in multi-unit housing are less able to install home chargers and thus rely more on public chargers (citation). 
-                Ideally, regions with more multi-unit dwelling should have greater public charging deployment; this trend is observed in some frontrunner countries of EV uptake such as the Netherlands (Citation). 
-                However,  California has shows a different story here.  Counties with highest rate of multi-unit dwelling residency (greater than 30%), as highlighted in green on the left, 
-                supposedly need most chargers per million population. However, they didn’t show any advantage of charger access than other counties with a lower multi-unit percentage.
+                Urban counties in general are higher in EV adoption, whereas most of them have a concerning EV/public charger ratio greater than 40:1. 
+                Non-urban counties are consistently low in EV adoption. However, it's worth noting that for those small portion of frontrunner non-urban counties with relatively high EV adoption, 
+                there are still very limited chargers. Even if EV uptake could achieve the expected goal in the future, 
+                it's worrisome that there may not be commensurate public chargers to serve the need. 
                   </p>    
                   < EquityCapital  style={{paddingLeft:-200}}/>
                 </div>

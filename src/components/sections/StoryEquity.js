@@ -59,11 +59,11 @@ const StoryEquity = ({
           <div className={tilesClasses} >
             <div className="reveal-from-bottom"  >
                 <div >
-                  <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '40pt' ,lineHeight:1.5}}>
-                  That's not the only problem...
+                  <h3 className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '38pt' ,lineHeight:1.5}}>
+                  There are more gaps!
                   </h3>
                   <p className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '20pt' ,lineHeight:1.5}}>
-                  Besides EV drivers' struggling issue, if we take a look at the whole California, we can see there's more Gap!
+                  Besides EV drivers' struggling issues, now let's zoom out to see the big picture of California charger distribution.
                   </p>
               </div>
             </div>

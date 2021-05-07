@@ -61,8 +61,8 @@ const Future = ({
   );
 
   const sectionHeader = {
-    title: 'A Furute to Look Forward',
-    paragraph: 'Need to be filled'
+    title: 'A Furute to Look Forward to',
+    paragraph: 'EV market share grows quickly to 9% in the first quarter of 2021 and the number of charging infrastructure has almost doubled in the past year. In this fast transition, no community should be left behind, and we need to keep in mind that e-mobility is only part of the solution to a sustainable future. We look forward to a multi-modal transport system that is clean, efficient, equitable and accessible to all.'
   };
 
   const [ref, inView] = useInView({
@@ -77,62 +77,16 @@ const Future = ({
       <div className="container">
         <div className={innerClasses}>
           <SectionHeader data={sectionHeader} className="center-content" />
-          <div className={splitClasses}>
-
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  </div>
-                <h3 className="mt-0 mb-12">
-                Often Wait for a Public Charger
-                  </h3>
-                <p className="m-0">
-                (need to change)Drivers respond that no matter how long miles do they drive, they experience half of the time they have to wait for a public charger. Even after driving over 10 miles, the situation remains. 
-                Waiting for a public charger is an issue that makes drivers take charging EV inconvenience.
-                  </p>
-              </div>
-              <div className={
-                classNames(
-                  'split-item-image center-content-mobile reveal-from-right',
-                  imageFill && 'split-item-image-fill'
-                )}
-                data-reveal-container=".split-item" >
-                      <div style={{
-                    height: 360 ,marginBottom: -150, marginTop: -60
-                  }}>
-                    <Waiting />
-                    </div>
-              </div>
-            </div>
-
-            <div className="split-item">
-              <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item">
-                <div className="text-xxs text-color-primary fw-600 tt-u mb-8">
-                  </div>
-                <h3 className="mt-0 mb-12">
-                Higher Income Area Gets More Public Chargers
-                  </h3>
-                <p className="m-0">
-                (need to change)Rumors say the high-income level living area has more public chargers. Statics support the hypothesis that low-income level gets a higher percentage that they do not see any charging station, but the higher income level sees more charger stations nearby.
-                 This causes inconvenience to the low-income group.
-                  </p>
-              </div>
-              <div className={
-                classNames(
-                  'split-item-image center-content-mobile reveal-from-right',
-                  imageFill && 'split-item-image-fill'
-                )}
-                data-reveal-container=".split-item">
-                <div style={{
-                    height: 360
-                  }}>
-                <IncomeLevelCharger />
+                  <div style={{height:360, marginBottom:0, marginTop:'-80px'}} className="reveal-from-bottom"
+                  >
+                      <Image
+                      src={require('./../../assets/images/future.png')}
+                      alt="future"
+                      />
+                 </div>      
                 </div>
-              </div>
-            </div>
 
-          </div>
-        </div>
+
       </div>
     </section>
   );

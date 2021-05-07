@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/MIMS21-GEAR/static/css/main.58f65323.chunk.css",
-    "main.js": "/MIMS21-GEAR/static/js/main.5acb2029.chunk.js",
-    "main.js.map": "/MIMS21-GEAR/static/js/main.5acb2029.chunk.js.map",
+    "main.css": "/MIMS21-GEAR/static/css/main.a3c8adea.chunk.css",
+    "main.js": "/MIMS21-GEAR/static/js/main.71824009.chunk.js",
+    "main.js.map": "/MIMS21-GEAR/static/js/main.71824009.chunk.js.map",
     "runtime-main.js": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js",
     "runtime-main.js.map": "/MIMS21-GEAR/static/js/runtime-main.7fa28056.js.map",
     "static/js/2.add7e74b.chunk.js": "/MIMS21-GEAR/static/js/2.add7e74b.chunk.js",
     "static/js/2.add7e74b.chunk.js.map": "/MIMS21-GEAR/static/js/2.add7e74b.chunk.js.map",
     "index.html": "/MIMS21-GEAR/index.html",
-    "precache-manifest.342345e03f717f8c771c6fe4972e42fa.js": "/MIMS21-GEAR/precache-manifest.342345e03f717f8c771c6fe4972e42fa.js",
+    "precache-manifest.147810464cdb09d75df87194bc3acbbb.js": "/MIMS21-GEAR/precache-manifest.147810464cdb09d75df87194bc3acbbb.js",
     "service-worker.js": "/MIMS21-GEAR/service-worker.js",
-    "static/css/main.58f65323.chunk.css.map": "/MIMS21-GEAR/static/css/main.58f65323.chunk.css.map",
+    "static/css/main.a3c8adea.chunk.css.map": "/MIMS21-GEAR/static/css/main.a3c8adea.chunk.css.map",
     "static/js/2.add7e74b.chunk.js.LICENSE.txt": "/MIMS21-GEAR/static/js/2.add7e74b.chunk.js.LICENSE.txt",
     "static/media/Brand.1119abb2.svg": "/MIMS21-GEAR/static/media/Brand.1119abb2.svg",
     "static/media/Brand.png": "/MIMS21-GEAR/static/media/Brand.4349baeb.png",
@@ -41,7 +41,7 @@
   "entrypoints": [
     "static/js/runtime-main.7fa28056.js",
     "static/js/2.add7e74b.chunk.js",
-    "static/css/main.58f65323.chunk.css",
-    "static/js/main.5acb2029.chunk.js"
+    "static/css/main.a3c8adea.chunk.css",
+    "static/js/main.71824009.chunk.js"
   ]
 }

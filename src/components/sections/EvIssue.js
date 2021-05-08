@@ -89,8 +89,8 @@ const EvIssue = ({
                 Often Wait for a Public Charger
                   </h3>
                 <p className="m-0">
-                Waiting for a public charger in a long line makes EV driver inconvenient and bothers them when they are in a hurry. 34% of drivers respond that in the past month, they have to wait for a public charger over half the time . 
-                Only 10.23% of drivers never ran into the waiting experience. This indicates that waiting for a public charger is a common problem and it happens frequently.
+                Waiting for a public charger in long lines bothers EV drivers when they are in a hurry. 34% of drivers responded that over half of the time in the past month, 
+                they have to wait for a public charger. Only 10.23% of drivers never have to wait. This indicates that waiting for a public charger is a common problem. 
                   </p>
               </div>
               <div className={
@@ -115,8 +115,8 @@ const EvIssue = ({
                 Higher Income Areas Get More Public Chargers
                   </h3>
                 <p className="m-0">
-                Statics supports that the low-income level gets a higher percentage of not seeing any charging station, 
-                while the higher income level sees more charger stations nearby. This causes inconvenience to the low-income group to get access to public chargers.
+                Statistics show that a higher percentage of lower income people are seeing less or no charging station. 
+                Higher income people tend to see more charging stations. This may indicate the lower income group have less access to public chargers.
                   </p>
               </div>
               <div className={
@@ -142,9 +142,8 @@ const EvIssue = ({
                 Charging Convenience
                   </h3>
                 <p className="m-0">
-                Every 8 out of 10 EV drivers expressed they have intentionally reduced EV usage due to concerns about charging station availability. 
-                Alternatively, they would take the trip using a different vehicle or travel mode. 
-                Such charging availability concerns are more than real, and are great hurdles to normal EV utilization. 
+                8 out of 10 EV drivers expressed they have intentionally reduced EV usage due to the concerns about charging station availability. Alternatively, 
+                they would take the trip using a different vehicle or travel mode. Such charging availability concerns are more than real, and are great hurdles to normal EV utilization.  
                   </p>
               </div>
               <div className={

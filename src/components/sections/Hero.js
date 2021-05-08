@@ -66,10 +66,11 @@ const Hero = ({
     >
       <div className="container-sm" >
         <div className={innerClasses}>
-          <div className="hero-content" >
+          <div className="hero-content"  >
             <h1 className="mt-0 mb-16 reveal-from-bottom invert-color" data-reveal-delay="200"  >
               <span className="text-color-secondary" >G</span>aps
               <span className="text-color-secondary"> E</span>xplorer for
+              <br></br>
               <span className="text-color-secondary"> A</span>ccessibility and
               <span className="text-color-secondary"> R</span>eadiness: California Electric Vehicle Charging Infrastructure
             </h1>

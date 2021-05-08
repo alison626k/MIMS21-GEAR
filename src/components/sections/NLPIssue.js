@@ -53,7 +53,7 @@ const NLPIssue = ({
 
   const sectionHeader = {
     title: 'Charging Experience',
-    paragraph: 'Nearly half (more than 40%) of the EV drivers have faced negative experiences during charging.'
+    paragraph: 'Nearly half (over 40%) of EV drivers have faced negative experiences during charging.'
   };
 
   return (
@@ -77,13 +77,13 @@ const NLPIssue = ({
                       />
                  </div>     
                 <p className="m-0" style ={{lineHeight:1.5}}  className="reveal-from-bottom">
-                ・57% of charging station reviews showing electric vehicles being ICEd.(EV spots taken by gas car)
+                ・57% of reviews on charging stations showed the charging spots being ICE'd (taken by internal combustion engine cars, usually gas cars).
                 <br></br>
                 <br></br>
-                ・Functionality, availability and service time are the most frequently mentioned topics.
+                ・Functionality, availability and service time are the most discussed topics.
                 <br></br>
                 <br></br>
-                ・50% negative reviews regarding availability, 22% for service time, 23% for functionality.
+                ・Percentages of negative reviews are 50%, 23% and 22% regarding availability, functionality and service time.
                 <br></br>
                   </p>    
                 </div>

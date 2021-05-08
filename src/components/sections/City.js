@@ -68,10 +68,10 @@ const City = ({
         <div className={innerClasses} >
           <SectionHeader data={sectionHeader} className="center-content" />
           <h3 className="mt-16 mb-12" style ={{marginTop:"-70px"} } className="reveal-from-bottom">
-          Gaps are big to have enough chargers for 2025 and 2030
+          Gaps are big to have chargers needed for 2025 and 2030
                   </h3>
                 <p className="m-0" className="reveal-from-bottom">
-                Looking at the two cities, the gaps for LA is even larger, putting more pressure on the city authority to close the gaps faster.
+                Looking at the two cities, the big gaps put a lot of pressure on city authorities to build more chargers faster, especially in LA.
                   
                   </p>    
           <ChargerGap  className="reveal-from-bottom"/>
@@ -83,11 +83,11 @@ const City = ({
           Transport policies making the charging infrastructure goals more attainable
                   </h3>
                 <p className="m-0" >
-                How can we close the gaps faster? There are two ways of thinking. First, accelerate the pace. Second, lower the bar (goal).
-
-The government is sending political signals and proposing $1 billion budget, and the industry is also making promising progress. The first box is checked.
-
-There is actually room to use various policies to push down the high demand of chargers (the base case demand is the length of the whole bar, the orange section is what is remaining to build with policies implemented).
+                How can we close the gaps faster? Here are two ideas. First, accelerate the pace. Second, lower the bar (goal).
+<br></br>
+Government is making strong commitments and industry is making promising progress. The first box is checked.
+<br></br>
+To lower the bar, there is room to use policies to push down the high demand of public chargers. The length of the whole bar shows the base case demand, and the orange part shows what is left when implementing the example policies. Many other policies can be considered to reduce the demand and bring more sustainable benefits.
                   </p>    
           <LARemain
                 width={200}
@@ -100,7 +100,7 @@ There is actually room to use various policies to push down the high demand of c
           Mapping the gaps in the base case and the policy intervention case
                   </h3>
                 <p className="m-0">
-                Let's take a look where the gaps are compared to the charger demand in 2030. When we have policy interventions implemented, the gaps no longer seem that big.
+                Let's take a look at the gaps on a map, comparing what we have now to what we need in 2030. Clicking the intervention scenario at the bottom, we find the magnitude of gaps no longer seem that big.
                   </p>    
           <CityMap
                 width={200}

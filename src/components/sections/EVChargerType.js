@@ -85,7 +85,7 @@ const EVChargerType = ({
                     👎 Charge slowly, 8 hours can supply 40 miles of range, 16-40 hours for full range.
                     <br ></br>
                     <br ></br>
-                    😢 Like "EVs on diet", slow intake, sometimes low energy in the day and need a boost to make it home.
+                    🍎 Like "EVs on diet", slow intake, sometimes low energy in the day and need a boost to make it home.
                     <br ></br>
                     </p>
                 </div>
@@ -117,7 +117,7 @@ const EVChargerType = ({
                   👍 Reasonable charge rate and price tag, reach full range in 10 hours 
                   <br ></br>
                   <br ></br>
-                  🙂 Like "Regular meals and snacks", daily usage, top up a few miles wherever possible during the day.
+                  🍛 Like "Regular meals and snacks", daily usage, top up a few miles wherever possible during the day.
                   <br ></br>
                     </p>
                 </div>
@@ -151,7 +151,7 @@ const EVChargerType = ({
 
                   <br ></br>
                   <br ></br>
-                  😃 Like "Energy shots", perfect for a quick boost on road trips or after a forgetful night, but had better not live on it.
+                  🥤 Like "Energy shots", perfect for a quick boost on road trips or after a forgetful night, but had better not live on it.
                   <br ></br>
                     </p>
                 </div>

@@ -72,7 +72,7 @@ const Equity = ({
             <div className="split-item" style={{marginTop:'-100px'}} >
               <div className="split-item-content center-content-mobile reveal-from-left" data-reveal-container=".split-item" >
                 <h3 className="mt-0 mb-12">
-                Race Dimension
+                Racial Disparity
                   </h3>
                 <p className="m-0">
                 In California, only 34% census tracts are equipped with a public charge spot, and there's a disparity in charger accessibility across different racial communities. 
@@ -117,7 +117,7 @@ const Equity = ({
 
             <div className="reveal-from-bottom">
           <h3 className=" mb-12" style ={{marginTop:"60px"}}>
-          Numbers of Charging Station VS Capital
+          Number of Chargers vs EV Adoption
                   </h3>
                 <p className="m-0">
                 Urban counties in general are higher in EV adoption, whereas most of them have a concerning EV/public charger ratio greater than 40:1. 

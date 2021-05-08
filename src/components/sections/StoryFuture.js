@@ -63,7 +63,7 @@ const StoryFuture = ({
                   To conclude...
                   </h3>
                   <p className="text-sm mb-0 invert-color" style ={{textAlign:'center',fontSize: '20pt' ,lineHeight:1.5}}>
-                  We've seen many gaps from different angles, but they can be addressed by thoughtful planning and policies. 
+                  We've seen many gaps from different angles, but it is possible to close the gaps with thoughtful planning and policies.
                   </p>
               </div>
             </div>

@@ -73,12 +73,12 @@ const BackgroundInfo = ({
               style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
                 <div className="testimonial-item-content" >
                   <p className="text-s mb-0" style ={{textAlign:'center'}}>
-                  Electric Vehicles are trending in recent years not only because of their cool look, but also the environmental benefits and lower operational costs. 
-                  California is leading the transition to electrifying its vehicles to fight against climate change and decarbonize the economy.
+                  Electric Vehicles (EVs) are trending in recent years not only because of their cool looks, but also their environmental benefits and lower operational costs.
+                   California is leading the transition to electrifying its vehicles to fight against climate change and decarbonize the economy.
                   <br></br>
                   <br></br>
-                   The government set <span className="text-color-error"style={{fontSize: '18pt', fontWeight:"bold",lineHeight:1 }}>the goal of 100% Zero-Emission Vehicle sales by 2035,  </span>
-                   meaning there needs to be 1.5 million chargers to support the 8 million ZEVs on the road. 
+                   The government set <span className="text-color-error"style={{fontSize: '18pt', fontWeight:"bold",lineHeight:1 }}> the goal that 100% New Cars Sales should be Zero-Emission by 2035</span>
+                   , meaning around 1.5 million EV chargers are needed to support the 8 million ZEVs on the road (including battery electric and hydrogen fuel cell). 
                   </p>
                 </div>
                 <div className=" text-xs mt-32 mb-0 ">
@@ -98,9 +98,9 @@ const BackgroundInfo = ({
               style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
                 <div className="testimonial-item-content">
                 <p className="text-s mb-0" style ={{textAlign:'center'}}>
-                Today, <span className="text-color-error"style={{fontSize: '18pt', fontWeight:"bold",lineHeight:1 }}> only 2.2 % of cars on the road in California are electric, </span>
-                 and charging infrastructure are not ready to support the mass adoption of EVs.
-                 Many drivers are concerned about the availability of chargers before they switch to electric.
+                Today in California, <span className="text-color-error"style={{fontSize: '18pt', fontWeight:"bold",lineHeight:1 }}> only 2.2 % of the cars on the road are electric </span>.
+                Our charging infrastructure is also not ready to support the mass adoption of EVs. 
+                Many drivers are concerned about the availability of chargers before they switch to electric.
 
                   </p>
                 </div>
@@ -121,7 +121,7 @@ const BackgroundInfo = ({
               style={{borderStyle:'solid',borderRadius:'25px', borderColor:'#96bb7c',borderWidth:'6px'}}>
                 <div className="testimonial-item-content">
                 <p className="text-s mb-0" style ={{textAlign:'center'}}>
-                To accelerate the EV transition, how we understand the gaps in the accessibility of EV charging infrastructure is important.
+                How we understand the gaps in the accessibility of charging infrastructure becomes so important in the EV transition.
                   </p>
                 </div>
                 <div className="text-xs mt-32 mb-0 ">

@@ -3,6 +3,7 @@ import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import FooterNav from './partials/FooterNav';
 import FooterSocial from './partials/FooterSocial';
+import Image from '../elements/Image';
 
 
 const propTypes = {
@@ -39,10 +40,10 @@ const Footer = ({
             'site-footer-inner',
             topDivider && 'has-top-divider'
           )}
-          style={{ fontSize: "12px", paddingTop: '3vh',paddingBottom: '1vh'}}>
-            
+          style={{ fontSize: "12px", paddingTop: '3vh',paddingBottom: '1vh',textAlign:'center'}}>
             <p className="invert-color">
-            <span style={{ fontSize: "16px"}} > Click <a href="https://docs.google.com/document/d/1D5LkFHCSmNqnWkh4tKd9qm4cag6BOq-Eh1SBv0iYL_4/edit?usp=sharing"> Here </a>for Detailed Report and Referrence Link</span>
+
+            <span style={{ fontSize: "16px"}} > Click <a href="https://www.ischool.berkeley.edu/sites/default/files/sproject_attachments/mims_capstone_final_report_gear.pdf" target="_blank"> Here </a>for Detailed Report and Reference Link</span>
             <br></br>
             University of California, Berkeley, School of Information, MIMS 2021. 
             <br></br>
